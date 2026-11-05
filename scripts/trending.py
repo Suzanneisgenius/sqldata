@@ -208,7 +208,7 @@ def render(local: datetime, rising: list[dict], newcomers: list[dict], site: lis
         L.append("_无_")
     L.append("")
 
-    L.append("## 🌍 全站 Trending（今日涨星 Top 10）")
+    L.append(f"## 🌍 全站 Trending（任意领域 · 今日涨星 Top {CFG.get('site_top_n', 10)}）")
     L.append("")
     if site:
         rows = [
@@ -300,7 +300,7 @@ def main() -> int:
         key=lambda r: -r["stars"],
     )[: CFG["top_n"]]
 
-    site = sorted(site, key=lambda s: -s["stars_today"])[:10]
+    site = sorted(site, key=lambda s: -s["stars_today"])[: CFG.get("site_top_n", 10)]
 
     md = render(local, rising, newcomers, site, meta)
     LATEST.write_text(md, encoding="utf-8")

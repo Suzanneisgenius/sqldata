@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-05T07:13:13+00:00",
+  "local": "2026-11-05T15:13:13+08:00",
+  "hn": [
+    {
+      "title": "Residential proxies detected on White House network",
+      "score": 918,
+      "comments": 278,
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "hn": "https://news.ycombinator.com/item?id=50371246"
+    },
+    {
+      "title": "Lemmings CSS Animation",
+      "score": 69,
+      "comments": 11,
+      "url": "https://markblah.github.io/lemmings/",
+      "hn": "https://news.ycombinator.com/item?id=50375354"
+    },
+    {
+      "title": "Images 2.6",
+      "score": 233,
+      "comments": 151,
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "hn": "https://news.ycombinator.com/item?id=50372945"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "score": 269,
+      "comments": 170,
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "hn": "https://news.ycombinator.com/item?id=50372929"
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "score": 276,
+      "comments": 99,
+      "url": "https://www.ricursive.com/ripple",
+      "hn": "https://news.ycombinator.com/item?id=50369925"
+    },
+    {
+      "title": "Kimi K3.1 Pro model weights are out",
+      "score": 480,
+      "comments": 136,
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "hn": "https://news.ycombinator.com/item?id=50366999"
+    },
+    {
+      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+      "score": 10,
+      "comments": 2,
+      "url": "https://www.altera.com/newsroom/agilex-2x",
+      "hn": "https://news.ycombinator.com/item?id=50375653"
+    },
+    {
+      "title": "Spreading Liquid with Three.js",
+      "score": 45,
+      "comments": 10,
+      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+      "hn": "https://news.ycombinator.com/item?id=50341576"
+    },
+    {
+      "title": "Insects don't swarm at LED lights",
+      "score": 226,
+      "comments": 120,
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "hn": "https://news.ycombinator.com/item?id=50370610"
+    },
+    {
+      "title": "Starfall – Affordable, routine access to microgravity",
+      "score": 195,
+      "comments": 124,
+      "url": "https://www.spacex.com/starfall",
+      "hn": "https://news.ycombinator.com/item?id=50373308"
+    }
+  ],
+  "github": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "stars": 18917,
+      "lang": "TypeScript",
+      "desc": "Towards a More Autonomous Agent System",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "storytold/craft-anything",
+      "stars": 13021,
+      "lang": "Rust",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "url": "https://github.com/storytold/craft-anything"
+    },
+    {
+      "name": "patch-gg/pixelfx",
+      "stars": 4897,
+      "lang": "JavaScript",
+      "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make y",
+      "url": "https://github.com/patch-gg/pixelfx"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 2862,
+      "lang": "TypeScript",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "Verlintas/NOIR",
+      "stars": 2218,
+      "lang": "Kotlin",
+      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions,",
+      "url": "https://github.com/Verlintas/NOIR"
+    },
+    {
+      "name": "elvarofficial/teardown",
+      "stars": 1975,
+      "lang": "JavaScript",
+      "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "url": "https://github.com/elvarofficial/teardown"
+    },
+    {
+      "name": "caru-ini/stack-diagram",
+      "stars": 1789,
+      "lang": "TypeScript",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official ",
+      "url": "https://github.com/caru-ini/stack-diagram"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 1694,
+      "lang": "Swift",
+      "desc": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "stars": 1586,
+      "lang": "TypeScript",
+      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js",
+      "url": "https://github.com/mromidev/claude-animated-shorts"
+    },
+    {
+      "name": "Arjun-Ingole/hop",
+      "stars": 1515,
+      "lang": "PowerShell",
+      "desc": "Install Linux next to Windows without a USB stick",
+      "url": "https://github.com/Arjun-Ingole/hop"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-04",
+    "rates": {
+      "CNY": 6.6723,
+      "EUR": 0.88755,
+      "GBP": 0.74075,
+      "JPY": 158.25
+    }
+  },
+  "crypto": {
+    "btc": 80660,
+    "btc_24h": 3.489091813290458,
+    "eth": 2429.27,
+    "eth_24h": 5.780900004985471
+  }
+}

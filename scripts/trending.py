@@ -120,8 +120,9 @@ def fetch_trending() -> list[dict]:
         return []
     out = []
     for art in page.split("<article")[1:]:
-        m = re.search(r'href="/([^/"]+/[^/"#?]+)"', art)
-        if not m:
+        h2 = re.search(r"<h2[^>]*>(.*?)</h2>", art, re.S)
+        m = re.search(r'href="/([^/"]+/[^/"#?]+)"', h2.group(1) if h2 else art)
+        if not m or m.group(1).startswith("sponsors/"):
             continue
         name = m.group(1)
         today = re.search(r"([\d,]+)\s+stars\s+today", art)

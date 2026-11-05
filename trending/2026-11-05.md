@@ -1,6 +1,6 @@
 # 📈 SQL & Data · GitHub 涨星日报 2026-11-05
 
-生成于 2026-11-05 15:20 (UTC+8) · 候选池 1662 个仓库 · 首日建立基线，明日起输出 24h 涨星数
+生成于 2026-11-05 15:23 (UTC+8) · 候选池 1662 个仓库 · 首日建立基线，明日起输出 24h 涨星数
 
 ## 🚀 SQL & Data 领域涨星最快
 
@@ -30,16 +30,16 @@ _今天没有可用的涨星数据_
 
 | # | Repo | Today | Stars | Lang | Description |
 |---:|---|---:|---:|---|---|
-| 1 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | +2,470 | 15,756 | Rust | Computer use CLI for AI agents |
-| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | +2,050 | 5,809 | Python | Auto Ontology is a Python framework for building semantic, graph-based reasonin… |
-| 3 | [sponsors/D4Vinci](https://github.com/sponsors/D4Vinci) | +2,005 | 96,999 | Python | 🕷️ The BEST Web Scraping framework that handles everything from a single reques… |
-| 4 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | +1,778 | 6,831 | C# |  |
-| 5 | [sponsors/mattpocock](https://github.com/sponsors/mattpocock) | +1,379 | 313,759 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
-| 6 | [sponsors/thedotmack](https://github.com/sponsors/thedotmack) | +1,172 | 113,101 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your a… |
-| 7 | [sponsors/floci-io](https://github.com/sponsors/floci-io) | +1,090 | 29,836 | Java | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| 8 | [github/spec-kit](https://github.com/github/spec-kit) | +808 | 147,508 | Python | 💫 Toolkit to help you get started with SDD or any other process! |
-| 9 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +617 | 139,307 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or key… |
-| 10 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | +531 | 11,202 | Rust | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent … |
+| 1 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | +2,470 | 15,760 | Rust | Computer use CLI for AI agents |
+| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | +2,050 | 5,818 | Python | Auto Ontology is a Python framework for building semantic, graph-based reasonin… |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | +2,005 | 97,003 | Python | 🕷️ The BEST Web Scraping framework that handles everything from a single reques… |
+| 4 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | +1,778 | 6,833 | C# |  |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | +1,379 | 313,759 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| 6 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +1,172 | 113,102 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your a… |
+| 7 | [floci-io/floci](https://github.com/floci-io/floci) | +1,090 | 29,838 | Java | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 8 | [github/spec-kit](https://github.com/github/spec-kit) | +808 | 147,510 | Python | 💫 Toolkit to help you get started with SDD or any other process! |
+| 9 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +617 | 139,309 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or key… |
+| 10 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | +531 | 11,204 | Rust | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent … |
 
 🎯 = 命中本领域关键词
 

@@ -1,0 +1,41 @@
+name: Daily Pulse
+
+on:
+  schedule:
+    - cron: "17 0 * * *"    # 08:17 Asia/Shanghai
+    - cron: "17 12 * * *"   # 20:17 Asia/Shanghai
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-pulse
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch data and refresh README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update.py
+
+      - name: Commit as repo owner and push
+        env:
+          # 必须是账号已绑定的邮箱，commit 才会计入贡献图
+          AUTHOR_NAME: Suzanneisgenius
+          AUTHOR_EMAIL: 180459943+Suzanneisgenius@users.noreply.github.com
+        run: |
+          git config user.name  "$AUTHOR_NAME"
+          git config user.email "$AUTHOR_EMAIL"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "nothing to commit"; exit 0
+          fi
+          git commit -m "pulse: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

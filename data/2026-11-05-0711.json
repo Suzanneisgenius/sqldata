@@ -1,0 +1,87 @@
+{
+  "utc": "2026-11-05T07:11:13+00:00",
+  "local": "2026-11-05T15:11:13+08:00",
+  "hn": [],
+  "github": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "stars": 18915,
+      "lang": "TypeScript",
+      "desc": "Towards a More Autonomous Agent System",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "storytold/craft-anything",
+      "stars": 13014,
+      "lang": "Rust",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "url": "https://github.com/storytold/craft-anything"
+    },
+    {
+      "name": "patch-gg/pixelfx",
+      "stars": 4896,
+      "lang": "JavaScript",
+      "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make y",
+      "url": "https://github.com/patch-gg/pixelfx"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 2862,
+      "lang": "TypeScript",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "Verlintas/NOIR",
+      "stars": 2217,
+      "lang": "Kotlin",
+      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions,",
+      "url": "https://github.com/Verlintas/NOIR"
+    },
+    {
+      "name": "elvarofficial/teardown",
+      "stars": 1974,
+      "lang": "JavaScript",
+      "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "url": "https://github.com/elvarofficial/teardown"
+    },
+    {
+      "name": "caru-ini/stack-diagram",
+      "stars": 1788,
+      "lang": "TypeScript",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official ",
+      "url": "https://github.com/caru-ini/stack-diagram"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 1693,
+      "lang": "Swift",
+      "desc": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "stars": 1586,
+      "lang": "TypeScript",
+      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js",
+      "url": "https://github.com/mromidev/claude-animated-shorts"
+    },
+    {
+      "name": "Arjun-Ingole/hop",
+      "stars": 1515,
+      "lang": "PowerShell",
+      "desc": "Install Linux next to Windows without a USB stick",
+      "url": "https://github.com/Arjun-Ingole/hop"
+    }
+  ],
+  "fx": {
+    "date": null,
+    "rates": {}
+  },
+  "crypto": {
+    "btc": null,
+    "btc_24h": null,
+    "eth": null,
+    "eth_24h": null
+  }
+}

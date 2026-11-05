@@ -1,0 +1,17 @@
+{
+  "field": "SQL & Data",
+  "mention": "@Suzanneisgenius",
+  "topics": [
+    "sql", "database", "data-engineering", "duckdb", "etl", "olap",
+    "data-pipeline", "lakehouse", "vector-database", "text-to-sql",
+    "postgresql", "clickhouse", "dbt", "data-warehouse"
+  ],
+  "keywords": [
+    "sql", "database", "duckdb", "postgres", "mysql", "sqlite", "clickhouse",
+    "olap", "etl", "warehouse", "lakehouse", "dataframe", "spark", "flink",
+    "kafka", "dbt", "airflow", "data pipeline", "query engine", "vector database",
+    "data engineering", "analytics", "iceberg", "delta lake", "parquet", "polars"
+  ],
+  "top_n": 15,
+  "new_days": 30
+}

@@ -171,6 +171,8 @@ def render_readme(snap: dict, st: dict, utc: datetime, local: datetime) -> str:
         f"current streak {st['streak']} day(s) · since {st['first']}"
     )
     L.append("")
+    L.append("📈 **Daily trending digest:** [TRENDING.md](TRENDING.md) · archive in `trending/` · a GitHub Issue is opened every morning")
+    L.append("")
 
     L.append("## Markets")
     L.append("")

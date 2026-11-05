@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-05T19:56:15+00:00",
+  "local": "2026-11-06T03:56:15+08:00",
+  "hn": [
+    {
+      "title": "sshole",
+      "score": 1829,
+      "comments": 482,
+      "url": "https://sshhole.com",
+      "hn": "https://news.ycombinator.com/item?id=50378228"
+    },
+    {
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "score": 421,
+      "comments": 73,
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "hn": "https://news.ycombinator.com/item?id=50379704"
+    },
+    {
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "score": 251,
+      "comments": 159,
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "hn": "https://news.ycombinator.com/item?id=50380810"
+    },
+    {
+      "title": "Window Sweaters",
+      "score": 100,
+      "comments": 36,
+      "url": "https://github.com/saragordic/window-sweaters",
+      "hn": "https://news.ycombinator.com/item?id=50381383"
+    },
+    {
+      "title": "The Lisp curse, now coming to your ecosystem",
+      "score": 142,
+      "comments": 82,
+      "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+      "hn": "https://news.ycombinator.com/item?id=50349667"
+    },
+    {
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "score": 35,
+      "comments": 20,
+      "url": "https://github.com/rivet-dev/rivet",
+      "hn": "https://news.ycombinator.com/item?id=50381687"
+    },
+    {
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "score": 136,
+      "comments": 28,
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "hn": "https://news.ycombinator.com/item?id=50379576"
+    },
+    {
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "score": 111,
+      "comments": 26,
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "hn": "https://news.ycombinator.com/item?id=50381033"
+    },
+    {
+      "title": "I wish tech companies knew more about me",
+      "score": 170,
+      "comments": 165,
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "hn": "https://news.ycombinator.com/item?id=50378942"
+    },
+    {
+      "title": "Download your favourite YouTube videos",
+      "score": 196,
+      "comments": 87,
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "hn": "https://news.ycombinator.com/item?id=50378571"
+    }
+  ],
+  "github": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "stars": 19412,
+      "lang": "TypeScript",
+      "desc": "Towards a More Autonomous Agent System",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "storytold/craft-anything",
+      "stars": 14642,
+      "lang": "Rust",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "url": "https://github.com/storytold/craft-anything"
+    },
+    {
+      "name": "patch-gg/pixelfx",
+      "stars": 5230,
+      "lang": "JavaScript",
+      "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make y",
+      "url": "https://github.com/patch-gg/pixelfx"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 3201,
+      "lang": "TypeScript",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "Verlintas/NOIR",
+      "stars": 2436,
+      "lang": "Kotlin",
+      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions,",
+      "url": "https://github.com/Verlintas/NOIR"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 2190,
+      "lang": "Python",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "name": "elvarofficial/teardown",
+      "stars": 2152,
+      "lang": "JavaScript",
+      "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "url": "https://github.com/elvarofficial/teardown"
+    },
+    {
+      "name": "zortos293/Lichii",
+      "stars": 1977,
+      "lang": "C++",
+      "desc": "VERY experimental Nintendo Switch 2 emulator",
+      "url": "https://github.com/zortos293/Lichii"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 1909,
+      "lang": "Swift",
+      "desc": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "caru-ini/stack-diagram",
+      "stars": 1859,
+      "lang": "TypeScript",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official ",
+      "url": "https://github.com/caru-ini/stack-diagram"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-05",
+    "rates": {
+      "CNY": 6.6684,
+      "EUR": 0.89095,
+      "GBP": 0.74299,
+      "JPY": 158.46
+    }
+  },
+  "crypto": {
+    "btc": 76370,
+    "btc_24h": -4.561151315539324,
+    "eth": 2264.16,
+    "eth_24h": -5.977017290044623
+  }
+}

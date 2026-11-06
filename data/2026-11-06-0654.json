@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-06T06:54:56+00:00",
+  "local": "2026-11-06T14:54:56+08:00",
+  "hn": [
+    {
+      "title": "Claude Code sends your email address to websites",
+      "score": 883,
+      "comments": 293,
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "hn": "https://news.ycombinator.com/item?id=50385272"
+    },
+    {
+      "title": "sshole",
+      "score": 2553,
+      "comments": 622,
+      "url": "https://sshhole.com",
+      "hn": "https://news.ycombinator.com/item?id=50378228"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "score": 456,
+      "comments": 173,
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "hn": "https://news.ycombinator.com/item?id=50384233"
+    },
+    {
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "score": 55,
+      "comments": 17,
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "hn": "https://news.ycombinator.com/item?id=50387738"
+    },
+    {
+      "title": "Pwn.college",
+      "score": 83,
+      "comments": 9,
+      "url": "https://pwn.college/",
+      "hn": "https://news.ycombinator.com/item?id=50387796"
+    },
+    {
+      "title": "Inkling 2 Small",
+      "score": 161,
+      "comments": 55,
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "hn": "https://news.ycombinator.com/item?id=50386338"
+    },
+    {
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "score": 24,
+      "comments": 4,
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "hn": "https://news.ycombinator.com/item?id=50388122"
+    },
+    {
+      "title": "The Hackintosh Reborn",
+      "score": 282,
+      "comments": 138,
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "hn": "https://news.ycombinator.com/item?id=50383057"
+    },
+    {
+      "title": "Window Sweaters",
+      "score": 296,
+      "comments": 93,
+      "url": "https://github.com/saragordic/window-sweaters",
+      "hn": "https://news.ycombinator.com/item?id=50381383"
+    },
+    {
+      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "score": 38,
+      "comments": 20,
+      "url": "https://github.com/matthewmrichter/mooftcp",
+      "hn": "https://news.ycombinator.com/item?id=50386789"
+    }
+  ],
+  "github": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "stars": 19775,
+      "lang": "TypeScript",
+      "desc": "Towards a More Autonomous Agent System",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "storytold/craft-anything",
+      "stars": 15901,
+      "lang": "Rust",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "url": "https://github.com/storytold/craft-anything"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 3385,
+      "lang": "TypeScript",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "zortos293/Lichii",
+      "stars": 2671,
+      "lang": "C++",
+      "desc": "VERY experimental Nintendo Switch 2 emulator",
+      "url": "https://github.com/zortos293/Lichii"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 2605,
+      "lang": "Python",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "name": "Verlintas/NOIR",
+      "stars": 2600,
+      "lang": "Kotlin",
+      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions,",
+      "url": "https://github.com/Verlintas/NOIR"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 2005,
+      "lang": "Swift",
+      "desc": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "caru-ini/stack-diagram",
+      "stars": 1883,
+      "lang": "TypeScript",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official ",
+      "url": "https://github.com/caru-ini/stack-diagram"
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "stars": 1852,
+      "lang": "TypeScript",
+      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js",
+      "url": "https://github.com/mromidev/claude-animated-shorts"
+    },
+    {
+      "name": "wquguru/cicada",
+      "stars": 1517,
+      "lang": "Swift",
+      "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, inter",
+      "url": "https://github.com/wquguru/cicada"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-05",
+    "rates": {
+      "CNY": 6.6684,
+      "EUR": 0.89095,
+      "GBP": 0.74299,
+      "JPY": 158.46
+    }
+  },
+  "crypto": {
+    "btc": 75614,
+    "btc_24h": -6.148188104782853,
+    "eth": 2227.7,
+    "eth_24h": -8.26843859808926
+  }
+}

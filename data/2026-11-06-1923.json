@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-06T19:23:56+00:00",
+  "local": "2026-11-07T03:23:56+08:00",
+  "hn": [
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "score": 133,
+      "comments": 122,
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "hn": "https://news.ycombinator.com/item?id=50388001"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "score": 508,
+      "comments": 1180,
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "hn": "https://news.ycombinator.com/item?id=50391456"
+    },
+    {
+      "title": "We know 15k websites are infected. how do we tell them?",
+      "score": 47,
+      "comments": 30,
+      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+      "hn": "https://news.ycombinator.com/item?id=50396064"
+    },
+    {
+      "title": "First steps in bare-metal programming using UEFI",
+      "score": 97,
+      "comments": 7,
+      "url": "https://kevinboone.me/efitest_index.html",
+      "hn": "https://news.ycombinator.com/item?id=50394855"
+    },
+    {
+      "title": "Size-It-Up (Game)",
+      "score": 26,
+      "comments": 9,
+      "url": "https://magnitudle.com/size-it-up",
+      "hn": "https://news.ycombinator.com/item?id=50395869"
+    },
+    {
+      "title": "Perplexity launches AI agents for work",
+      "score": 29,
+      "comments": 24,
+      "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+      "hn": "https://news.ycombinator.com/item?id=50395866"
+    },
+    {
+      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+      "score": 84,
+      "comments": 63,
+      "url": "https://github.com/anomalyco/rune",
+      "hn": "https://news.ycombinator.com/item?id=50394569"
+    },
+    {
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "score": 590,
+      "comments": 239,
+      "url": "https://github.com/ppmpreetham/BUI",
+      "hn": "https://news.ycombinator.com/item?id=50389333"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "score": 236,
+      "comments": 185,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "hn": "https://news.ycombinator.com/item?id=50392118"
+    },
+    {
+      "title": "Deus Ex",
+      "score": 256,
+      "comments": 127,
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "hn": "https://news.ycombinator.com/item?id=50393758"
+    }
+  ],
+  "github": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "stars": 20192,
+      "lang": "TypeScript",
+      "desc": "Towards a More Autonomous Agent System",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "storytold/craft-anything",
+      "stars": 17631,
+      "lang": "Rust",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "url": "https://github.com/storytold/craft-anything"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 3637,
+      "lang": "TypeScript",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "zortos293/Lichii",
+      "stars": 3630,
+      "lang": "C++",
+      "desc": "VERY experimental Nintendo Switch 2 emulator",
+      "url": "https://github.com/zortos293/Lichii"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 2846,
+      "lang": "Python",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "name": "Verlintas/NOIR",
+      "stars": 2740,
+      "lang": "Kotlin",
+      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions,",
+      "url": "https://github.com/Verlintas/NOIR"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 2114,
+      "lang": "Swift",
+      "desc": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "stars": 2001,
+      "lang": "TypeScript",
+      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js",
+      "url": "https://github.com/mromidev/claude-animated-shorts"
+    },
+    {
+      "name": "caru-ini/stack-diagram",
+      "stars": 1933,
+      "lang": "TypeScript",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official ",
+      "url": "https://github.com/caru-ini/stack-diagram"
+    },
+    {
+      "name": "Minireel/HGhub",
+      "stars": 1569,
+      "lang": "TypeScript",
+      "desc": "YellowFruit third-party client",
+      "url": "https://github.com/Minireel/HGhub"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-06",
+    "rates": {
+      "CNY": 6.6713,
+      "EUR": 0.89566,
+      "GBP": 0.74711,
+      "JPY": 158.33
+    }
+  },
+  "crypto": {
+    "btc": 75654,
+    "btc_24h": -0.4591080791032598,
+    "eth": 2225.5,
+    "eth_24h": -1.0853528974658202
+  }
+}

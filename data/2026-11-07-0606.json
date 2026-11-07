@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-07T06:06:01+00:00",
+  "local": "2026-11-07T14:06:01+08:00",
+  "hn": [
+    {
+      "title": "Libghostty 1.0",
+      "score": 444,
+      "comments": 71,
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "hn": "https://news.ycombinator.com/item?id=50399933"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "score": 410,
+      "comments": 91,
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "hn": "https://news.ycombinator.com/item?id=50397429"
+    },
+    {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "score": 14,
+      "comments": 3,
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "hn": "https://news.ycombinator.com/item?id=50401740"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "score": 941,
+      "comments": 1801,
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "hn": "https://news.ycombinator.com/item?id=50391456"
+    },
+    {
+      "title": "What do the next 4000 emoji look like?",
+      "score": 33,
+      "comments": 21,
+      "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
+      "hn": "https://news.ycombinator.com/item?id=50384263"
+    },
+    {
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "score": 79,
+      "comments": 36,
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "hn": "https://news.ycombinator.com/item?id=50399991"
+    },
+    {
+      "title": "The Flash C Compiler",
+      "score": 22,
+      "comments": 2,
+      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+      "hn": "https://news.ycombinator.com/item?id=50352701"
+    },
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "score": 309,
+      "comments": 254,
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "hn": "https://news.ycombinator.com/item?id=50388001"
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "score": 205,
+      "comments": 104,
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "hn": "https://news.ycombinator.com/item?id=50397219"
+    },
+    {
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "score": 60,
+      "comments": 4,
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "hn": "https://news.ycombinator.com/item?id=50360810"
+    }
+  ],
+  "github": [
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 3755,
+      "lang": "TypeScript",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 2931,
+      "lang": "Python",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 2178,
+      "lang": "Swift",
+      "desc": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "stars": 2056,
+      "lang": "TypeScript",
+      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js",
+      "url": "https://github.com/mromidev/claude-animated-shorts"
+    },
+    {
+      "name": "caru-ini/stack-diagram",
+      "stars": 1986,
+      "lang": "TypeScript",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official ",
+      "url": "https://github.com/caru-ini/stack-diagram"
+    },
+    {
+      "name": "Minireel/HGhub",
+      "stars": 1813,
+      "lang": "TypeScript",
+      "desc": "YellowFruit third-party client",
+      "url": "https://github.com/Minireel/HGhub"
+    },
+    {
+      "name": "wquguru/cicada",
+      "stars": 1577,
+      "lang": "Swift",
+      "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, inter",
+      "url": "https://github.com/wquguru/cicada"
+    },
+    {
+      "name": "s1dashu/quiet-md",
+      "stars": 1197,
+      "lang": "Rust",
+      "desc": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible wi",
+      "url": "https://github.com/s1dashu/quiet-md"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 1088,
+      "lang": "JavaScript",
+      "desc": "",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "livliv-dev/player",
+      "stars": 996,
+      "lang": "TypeScript",
+      "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "url": "https://github.com/livliv-dev/player"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-06",
+    "rates": {
+      "CNY": 6.6713,
+      "EUR": 0.89566,
+      "GBP": 0.74711,
+      "JPY": 158.33
+    }
+  },
+  "crypto": {
+    "btc": 75961,
+    "btc_24h": 0.5362151745169332,
+    "eth": 2246.11,
+    "eth_24h": 1.1522986916802027
+  }
+}

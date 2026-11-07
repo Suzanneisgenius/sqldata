@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-07T17:45:18+00:00",
+  "local": "2026-11-08T01:45:18+08:00",
+  "hn": [
+    {
+      "title": "The $8 Linux Computer (2022)",
+      "score": 113,
+      "comments": 48,
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "hn": "https://news.ycombinator.com/item?id=50404599"
+    },
+    {
+      "title": "How Long Can Life Wait?",
+      "score": 34,
+      "comments": 5,
+      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "hn": "https://news.ycombinator.com/item?id=50405789"
+    },
+    {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "score": 13,
+      "comments": 1,
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "hn": "https://news.ycombinator.com/item?id=50406292"
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "score": 511,
+      "comments": 160,
+      "url": "https://nfsu2.xyz/",
+      "hn": "https://news.ycombinator.com/item?id=50403052"
+    },
+    {
+      "title": "Libghostty 1.0",
+      "score": 919,
+      "comments": 151,
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "hn": "https://news.ycombinator.com/item?id=50399933"
+    },
+    {
+      "title": "Text.js: Build full-stack React apps that render inside console.log",
+      "score": 29,
+      "comments": 10,
+      "url": "https://textjs.org/",
+      "hn": "https://news.ycombinator.com/item?id=50361657"
+    },
+    {
+      "title": "Running a law firm on Free software",
+      "score": 141,
+      "comments": 69,
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "hn": "https://news.ycombinator.com/item?id=50403066"
+    },
+    {
+      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "score": 70,
+      "comments": 45,
+      "url": "https://kevinboone.me/tpwin.html",
+      "hn": "https://news.ycombinator.com/item?id=50405678"
+    },
+    {
+      "title": "British Library Legal deposit and web archiving",
+      "score": 38,
+      "comments": 18,
+      "url": "https://www.bl.uk/services/legal-deposit/web-archiving",
+      "hn": "https://news.ycombinator.com/item?id=50352791"
+    },
+    {
+      "title": "Tasfer: a text editor drawn on a 2D canvas",
+      "score": 37,
+      "comments": 13,
+      "url": "https://www.hamza.se/blog/tasfer",
+      "hn": "https://news.ycombinator.com/item?id=50358094"
+    }
+  ],
+  "github": [
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 3929,
+      "lang": "TypeScript",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 3027,
+      "lang": "Python",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 2224,
+      "lang": "Swift",
+      "desc": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "stars": 2182,
+      "lang": "TypeScript",
+      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js",
+      "url": "https://github.com/mromidev/claude-animated-shorts"
+    },
+    {
+      "name": "Minireel/HGhub",
+      "stars": 2176,
+      "lang": "TypeScript",
+      "desc": "YellowFruit third-party client",
+      "url": "https://github.com/Minireel/HGhub"
+    },
+    {
+      "name": "caru-ini/stack-diagram",
+      "stars": 2046,
+      "lang": "TypeScript",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official ",
+      "url": "https://github.com/caru-ini/stack-diagram"
+    },
+    {
+      "name": "wquguru/cicada",
+      "stars": 1613,
+      "lang": "Swift",
+      "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, inter",
+      "url": "https://github.com/wquguru/cicada"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 1585,
+      "lang": "JavaScript",
+      "desc": "",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "NotRexed/Hookshot",
+      "stars": 1330,
+      "lang": "C++",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "name": "s1dashu/quiet-md",
+      "stars": 1261,
+      "lang": "Rust",
+      "desc": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible wi",
+      "url": "https://github.com/s1dashu/quiet-md"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-06",
+    "rates": {
+      "CNY": 6.6713,
+      "EUR": 0.89566,
+      "GBP": 0.74711,
+      "JPY": 158.33
+    }
+  },
+  "crypto": {
+    "btc": 75792,
+    "btc_24h": 0.2734877741580657,
+    "eth": 2234.63,
+    "eth_24h": 0.6881973197663563
+  }
+}

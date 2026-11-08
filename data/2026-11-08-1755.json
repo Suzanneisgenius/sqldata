@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-08T17:55:49+00:00",
+  "local": "2026-11-09T01:55:49+08:00",
+  "hn": [
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "score": 220,
+      "comments": 64,
+      "url": "https://github.com/synchopate/llama-modchip",
+      "hn": "https://news.ycombinator.com/item?id=50411961"
+    },
+    {
+      "title": "The Reconstruction of Torn Documents",
+      "score": 40,
+      "comments": 16,
+      "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+      "hn": "https://news.ycombinator.com/item?id=50389923"
+    },
+    {
+      "title": "Writing as a thinking tool",
+      "score": 123,
+      "comments": 36,
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "hn": "https://news.ycombinator.com/item?id=50412067"
+    },
+    {
+      "title": "Goodbye Claude, hello Pi",
+      "score": 568,
+      "comments": 354,
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "hn": "https://news.ycombinator.com/item?id=50410107"
+    },
+    {
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "score": 29,
+      "comments": 12,
+      "url": "https://goldstein.lol/posts/deno-security/",
+      "hn": "https://news.ycombinator.com/item?id=50413769"
+    },
+    {
+      "title": "Porting Android 16 to my blind mother's keypad phone",
+      "score": 92,
+      "comments": 32,
+      "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+      "hn": "https://news.ycombinator.com/item?id=50366821"
+    },
+    {
+      "title": "Show HN: Vegetable Gardening for Engineers",
+      "score": 36,
+      "comments": 6,
+      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+      "hn": "https://news.ycombinator.com/item?id=50362963"
+    },
+    {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "score": 69,
+      "comments": 11,
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "hn": "https://news.ycombinator.com/item?id=50412072"
+    },
+    {
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "score": 705,
+      "comments": 126,
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "hn": "https://news.ycombinator.com/item?id=50406670"
+    },
+    {
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "score": 143,
+      "comments": 146,
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "hn": "https://news.ycombinator.com/item?id=50413822"
+    }
+  ],
+  "github": [
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 4085,
+      "lang": "TypeScript",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 3217,
+      "lang": "Python",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "name": "Minireel/HGhub",
+      "stars": 3097,
+      "lang": "TypeScript",
+      "desc": "YellowFruit third-party client",
+      "url": "https://github.com/Minireel/HGhub"
+    },
+    {
+      "name": "NotRexed/Hookshot",
+      "stars": 2628,
+      "lang": "C++",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 2365,
+      "lang": "Swift",
+      "desc": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 1851,
+      "lang": "JavaScript",
+      "desc": "",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "sarpstar/cinecode",
+      "stars": 1474,
+      "lang": "Python",
+      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: ",
+      "url": "https://github.com/sarpstar/cinecode"
+    },
+    {
+      "name": "Sandflow-ai/sand3d",
+      "stars": 1341,
+      "lang": "HTML",
+      "desc": "3D modeling in Python, built for LLMs.",
+      "url": "https://github.com/Sandflow-ai/sand3d"
+    },
+    {
+      "name": "livliv-dev/player",
+      "stars": 1321,
+      "lang": "TypeScript",
+      "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "url": "https://github.com/livliv-dev/player"
+    },
+    {
+      "name": "mmdoctor/google-pro-helper",
+      "stars": 1220,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-06",
+    "rates": {
+      "CNY": 6.6713,
+      "EUR": 0.89566,
+      "GBP": 0.74711,
+      "JPY": 158.33
+    }
+  },
+  "crypto": {
+    "btc": 75691,
+    "btc_24h": -0.13582965821537413,
+    "eth": 2228.59,
+    "eth_24h": -0.24224664442268543
+  }
+}

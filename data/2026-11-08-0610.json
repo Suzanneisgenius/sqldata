@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-08T06:10:15+00:00",
+  "local": "2026-11-08T14:10:15+08:00",
+  "hn": [
+    {
+      "title": "Goodbye Claude, Hello Pi",
+      "score": 87,
+      "comments": 47,
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "hn": "https://news.ycombinator.com/item?id=50410107"
+    },
+    {
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "score": 481,
+      "comments": 98,
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "hn": "https://news.ycombinator.com/item?id=50406670"
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "score": 301,
+      "comments": 207,
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "hn": "https://news.ycombinator.com/item?id=50407882"
+    },
+    {
+      "title": "Making any integer with four 2s (2025)",
+      "score": 99,
+      "comments": 26,
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "hn": "https://news.ycombinator.com/item?id=50408713"
+    },
+    {
+      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+      "score": 35,
+      "comments": 17,
+      "url": "https://github.com/crmne/zapfast",
+      "hn": "https://news.ycombinator.com/item?id=50409855"
+    },
+    {
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "score": 12,
+      "comments": 2,
+      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "hn": "https://news.ycombinator.com/item?id=50410359"
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "score": 896,
+      "comments": 241,
+      "url": "https://nfsu2.xyz/",
+      "hn": "https://news.ycombinator.com/item?id=50403052"
+    },
+    {
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "score": 102,
+      "comments": 66,
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "hn": "https://news.ycombinator.com/item?id=50377661"
+    },
+    {
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "score": 259,
+      "comments": 73,
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "hn": "https://news.ycombinator.com/item?id=50406222"
+    },
+    {
+      "title": "Consumer brain wave headsets threaten privacy",
+      "score": 14,
+      "comments": 3,
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "hn": "https://news.ycombinator.com/item?id=50409856"
+    }
+  ],
+  "github": [
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 3996,
+      "lang": "TypeScript",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 3104,
+      "lang": "Python",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "name": "Minireel/HGhub",
+      "stars": 2484,
+      "lang": "TypeScript",
+      "desc": "YellowFruit third-party client",
+      "url": "https://github.com/Minireel/HGhub"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 2289,
+      "lang": "Swift",
+      "desc": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "NotRexed/Hookshot",
+      "stars": 2071,
+      "lang": "C++",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 1749,
+      "lang": "JavaScript",
+      "desc": "",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "livliv-dev/player",
+      "stars": 1256,
+      "lang": "TypeScript",
+      "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "url": "https://github.com/livliv-dev/player"
+    },
+    {
+      "name": "mmdoctor/google-pro-helper",
+      "stars": 1166,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    },
+    {
+      "name": "Sandflow-ai/sand3d",
+      "stars": 1098,
+      "lang": "HTML",
+      "desc": "3D modeling in Python, built for LLMs.",
+      "url": "https://github.com/Sandflow-ai/sand3d"
+    },
+    {
+      "name": "sarpstar/cinecode",
+      "stars": 1009,
+      "lang": "Python",
+      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: ",
+      "url": "https://github.com/sarpstar/cinecode"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-06",
+    "rates": {
+      "CNY": 6.6713,
+      "EUR": 0.89566,
+      "GBP": 0.74711,
+      "JPY": 158.33
+    }
+  },
+  "crypto": {
+    "btc": 75713,
+    "btc_24h": -0.3240930740572325,
+    "eth": 2231.64,
+    "eth_24h": -0.62252121799195
+  }
+}

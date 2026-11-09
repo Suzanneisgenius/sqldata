@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-09T06:44:12+00:00",
+  "local": "2026-11-09T14:44:12+08:00",
+  "hn": [
+    {
+      "title": "Apple capped engineers at a $200 daily AI budget",
+      "score": 37,
+      "comments": 33,
+      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+      "hn": "https://news.ycombinator.com/item?id=50421426"
+    },
+    {
+      "title": "RIP, Harvest",
+      "score": 279,
+      "comments": 84,
+      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "hn": "https://news.ycombinator.com/item?id=50420035"
+    },
+    {
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "score": 371,
+      "comments": 99,
+      "url": "https://ketchup3d.github.io/app/",
+      "hn": "https://news.ycombinator.com/item?id=50418176"
+    },
+    {
+      "title": "Unlocking any car from X brand in most of the world",
+      "score": 215,
+      "comments": 75,
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "hn": "https://news.ycombinator.com/item?id=50419215"
+    },
+    {
+      "title": "A Critique of GPUI",
+      "score": 62,
+      "comments": 26,
+      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "hn": "https://news.ycombinator.com/item?id=50420857"
+    },
+    {
+      "title": "Chimera Vocal Synth",
+      "score": 168,
+      "comments": 23,
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "hn": "https://news.ycombinator.com/item?id=50418182"
+    },
+    {
+      "title": "I'm not convinced the AI bubble exists",
+      "score": 155,
+      "comments": 211,
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "hn": "https://news.ycombinator.com/item?id=50418975"
+    },
+    {
+      "title": "Declarative Dragging",
+      "score": 461,
+      "comments": 61,
+      "url": "https://declarative-dragging.github.io/",
+      "hn": "https://news.ycombinator.com/item?id=50368481"
+    },
+    {
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "score": 248,
+      "comments": 78,
+      "url": "https://duxlabs.dev/",
+      "hn": "https://news.ycombinator.com/item?id=50416053"
+    },
+    {
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "score": 188,
+      "comments": 631,
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "hn": "https://news.ycombinator.com/item?id=50417407"
+    }
+  ],
+  "github": [
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 4174,
+      "lang": "TypeScript",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "Minireel/HGhub",
+      "stars": 4015,
+      "lang": "TypeScript",
+      "desc": "YellowFruit third-party client",
+      "url": "https://github.com/Minireel/HGhub"
+    },
+    {
+      "name": "NotRexed/Hookshot",
+      "stars": 3397,
+      "lang": "C++",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 3294,
+      "lang": "Python",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 2426,
+      "lang": "Swift",
+      "desc": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 1887,
+      "lang": "JavaScript",
+      "desc": "",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "sarpstar/cinecode",
+      "stars": 1676,
+      "lang": "Python",
+      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: ",
+      "url": "https://github.com/sarpstar/cinecode"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "stars": 1551,
+      "lang": "C",
+      "desc": "",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "Sandflow-ai/sand3d",
+      "stars": 1478,
+      "lang": "HTML",
+      "desc": "3D modeling in Python, built for LLMs.",
+      "url": "https://github.com/Sandflow-ai/sand3d"
+    },
+    {
+      "name": "livliv-dev/player",
+      "stars": 1357,
+      "lang": "TypeScript",
+      "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "url": "https://github.com/livliv-dev/player"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-06",
+    "rates": {
+      "CNY": 6.6713,
+      "EUR": 0.89566,
+      "GBP": 0.74711,
+      "JPY": 158.33
+    }
+  },
+  "crypto": {
+    "btc": 74108,
+    "btc_24h": -2.113449000842836,
+    "eth": 2108.48,
+    "eth_24h": -5.4723258507030295
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-09T22:20:22+00:00",
+  "local": "2026-11-10T06:20:22+08:00",
+  "hn": [
+    {
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "score": 270,
+      "comments": 131,
+      "url": "https://postalpro.usps.com/zcb",
+      "hn": "https://news.ycombinator.com/item?id=50431058"
+    },
+    {
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "score": 153,
+      "comments": 81,
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "hn": "https://news.ycombinator.com/item?id=50431144"
+    },
+    {
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "score": 423,
+      "comments": 229,
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "hn": "https://news.ycombinator.com/item?id=50427362"
+    },
+    {
+      "title": "E-means: 10x faster k-means at equal loss",
+      "score": 182,
+      "comments": 11,
+      "url": "https://e-means.github.io/",
+      "hn": "https://news.ycombinator.com/item?id=50429734"
+    },
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "score": 176,
+      "comments": 27,
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "hn": "https://news.ycombinator.com/item?id=50429426"
+    },
+    {
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "score": 195,
+      "comments": 84,
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "hn": "https://news.ycombinator.com/item?id=50429024"
+    },
+    {
+      "title": "CUI – Native UI components for C",
+      "score": 92,
+      "comments": 56,
+      "url": "https://yappologistic.github.io/CUI/",
+      "hn": "https://news.ycombinator.com/item?id=50430621"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "score": 771,
+      "comments": 446,
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "hn": "https://news.ycombinator.com/item?id=50429906"
+    },
+    {
+      "title": "Fold Epic Paper Airplanes",
+      "score": 760,
+      "comments": 128,
+      "url": "https://www.foldableflight.com",
+      "hn": "https://news.ycombinator.com/item?id=50424581"
+    },
+    {
+      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+      "score": 70,
+      "comments": 30,
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "hn": "https://news.ycombinator.com/item?id=50429430"
+    }
+  ],
+  "github": [
+    {
+      "name": "Minireel/HGhub",
+      "stars": 5735,
+      "lang": "TypeScript",
+      "desc": "YellowFruit third-party client",
+      "url": "https://github.com/Minireel/HGhub"
+    },
+    {
+      "name": "NotRexed/Hookshot",
+      "stars": 4830,
+      "lang": "C++",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 4269,
+      "lang": "TypeScript",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 2503,
+      "lang": "Swift",
+      "desc": "Entire MacOS running in your terminal.",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "stars": 2315,
+      "lang": "C",
+      "desc": "",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "janestreet/agent_skills",
+      "stars": 1931,
+      "lang": "-",
+      "desc": "Agent skills",
+      "url": "https://github.com/janestreet/agent_skills"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 1926,
+      "lang": "JavaScript",
+      "desc": "",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "sarpstar/cinecode",
+      "stars": 1905,
+      "lang": "Python",
+      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: ",
+      "url": "https://github.com/sarpstar/cinecode"
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "stars": 1713,
+      "lang": "C#",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, ",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "name": "Sandflow-ai/sand3d",
+      "stars": 1611,
+      "lang": "HTML",
+      "desc": "3D modeling in Python, built for LLMs.",
+      "url": "https://github.com/Sandflow-ai/sand3d"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-09",
+    "rates": {
+      "CNY": 6.6728,
+      "EUR": 0.89342,
+      "GBP": 0.74538,
+      "JPY": 157.95
+    }
+  },
+  "crypto": {
+    "btc": 74938,
+    "btc_24h": 0.5585509192422438,
+    "eth": 2125.16,
+    "eth_24h": -0.2209341736649992
+  }
+}

@@ -2,8 +2,8 @@
 
 Twice-daily snapshot of Hacker News, new GitHub repos, FX rates and crypto, refreshed automatically by GitHub Actions (08:17 / 20:17 Asia/Shanghai).
 
-**Last updated:** 2026-11-10 06:20 (UTC+8) · `2026-11-09 22:20Z`  
-**Stats:** 11 snapshots · 5 days tracked · current streak 5 day(s) · since 2026-11-05
+**Last updated:** 2026-11-10 15:25 (UTC+8) · `2026-11-10 07:25Z`  
+**Stats:** 12 snapshots · 6 days tracked · current streak 6 day(s) · since 2026-11-05
 
 📈 **Daily trending digest:** [TRENDING.md](TRENDING.md) · archive in `trending/` · a GitHub Issue is opened every morning
 
@@ -11,8 +11,8 @@ Twice-daily snapshot of Hacker News, new GitHub repos, FX rates and crypto, refr
 
 | Pair | Value | | Asset | USD | 24h |
 |---|---:|---|---|---:|---:|
-| USD/CNY | 6.6728 | | BTC | 74,938 | +0.6% |
-| USD/EUR | 0.8934 | | ETH | 2,125 | -0.2% |
+| USD/CNY | 6.6728 | | BTC | 74,672 | +1.0% |
+| USD/EUR | 0.8934 | | ETH | 2,118 | +1.2% |
 | USD/JPY | 157.95 | | | | |
 | USD/GBP | 0.7454 | | | | |
 
@@ -22,31 +22,31 @@ FX reference date (ECB): 2026-11-09 · history in `data/fx-history.csv`
 
 | # | Story | Points | Comments |
 |---:|---|---:|---:|
-| 1 | [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) | 270 | [131](https://news.ycombinator.com/item?id=50431058) |
-| 2 | [Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2) | 153 | [81](https://news.ycombinator.com/item?id=50431144) |
-| 3 | [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) | 423 | [229](https://news.ycombinator.com/item?id=50427362) |
-| 4 | [E-means: 10x faster k-means at equal loss](https://e-means.github.io/) | 182 | [11](https://news.ycombinator.com/item?id=50429734) |
-| 5 | [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/) | 176 | [27](https://news.ycombinator.com/item?id=50429426) |
-| 6 | [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember) | 195 | [84](https://news.ycombinator.com/item?id=50429024) |
-| 7 | [CUI – Native UI components for C](https://yappologistic.github.io/CUI/) | 92 | [56](https://news.ycombinator.com/item?id=50430621) |
-| 8 | [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) | 771 | [446](https://news.ycombinator.com/item?id=50429906) |
-| 9 | [Fold Epic Paper Airplanes](https://www.foldableflight.com) | 760 | [128](https://news.ycombinator.com/item?id=50424581) |
-| 10 | [Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028) | 70 | [30](https://news.ycombinator.com/item?id=50429430) |
+| 1 | [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) | 106 | [24](https://news.ycombinator.com/item?id=50436640) |
+| 2 | [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) | 472 | [744](https://news.ycombinator.com/item?id=50429068) |
+| 3 | [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) | 592 | [300](https://news.ycombinator.com/item?id=50431058) |
+| 4 | [Your TV can see through walls](https://maurycyz.com/projects/fading/) | 45 | [13](https://news.ycombinator.com/item?id=50436410) |
+| 5 | [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/) | 123 | [59](https://news.ycombinator.com/item?id=50434310) |
+| 6 | [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/) | 365 | [31](https://news.ycombinator.com/item?id=50429734) |
+| 7 | [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) | 516 | [282](https://news.ycombinator.com/item?id=50427362) |
+| 8 | [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com) | 957 | [146](https://news.ycombinator.com/item?id=50424581) |
+| 9 | [Horible public key tricks](https://maurycyz.com/projects/badcert/) | 122 | [40](https://news.ycombinator.com/item?id=50434264) |
+| 10 | [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/) | 29 | [8](https://news.ycombinator.com/item?id=50435898) |
 
 ## GitHub · Hottest repos created in the last 7 days
 
 | # | Repo | Stars | Lang | Description |
 |---:|---|---:|---|---|
-| 1 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | 5,735 | TypeScript | YellowFruit third-party client |
-| 2 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | 4,830 | C++ | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake |
-| 3 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 4,269 | TypeScript | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
-| 4 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 2,503 | Swift | Entire MacOS running in your terminal. |
-| 5 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 2,315 | C |  |
-| 6 | [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | 1,931 | - | Agent skills |
-| 7 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | 1,926 | JavaScript |  |
-| 8 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | 1,905 | Python | Films made with code. Short films, long YouTube videos, ads, explainers and music videos:  |
-| 9 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 1,713 | C# | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64,  |
-| 10 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | 1,611 | HTML | 3D modeling in Python, built for LLMs. |
+| 1 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | 5,498 | C++ | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake |
+| 2 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | 3,149 | Swift | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backup |
+| 3 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 2,554 | C |  |
+| 4 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 2,130 | C# | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64,  |
+| 5 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | 1,972 | JavaScript |  |
+| 6 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | 1,541 | Go | Let AI agents use your phone, with you in the loop. |
+| 7 | [IainKay/ram-altman](https://github.com/IainKay/ram-altman) | 1,527 | Shell | Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of  |
+| 8 | [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) | 1,505 | Python |  |
+| 9 | [livliv-dev/player](https://github.com/livliv-dev/player) | 1,425 | TypeScript | A lightweight 2.5D character player for the web, with lip sync and webcam face tracking. |
+| 10 | [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth) | 1,334 | Rust | the ultimate vocal synthesizer - sing, speak, beatbox, and more |
 
 ---
 Raw snapshots live in `data/` (one JSON per run). Script: `scripts/update.py`.

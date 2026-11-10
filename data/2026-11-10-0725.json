@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-10T07:25:23+00:00",
+  "local": "2026-11-10T15:25:23+08:00",
+  "hn": [
+    {
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "score": 106,
+      "comments": 24,
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "hn": "https://news.ycombinator.com/item?id=50436640"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "score": 472,
+      "comments": 744,
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "hn": "https://news.ycombinator.com/item?id=50429068"
+    },
+    {
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "score": 592,
+      "comments": 300,
+      "url": "https://postalpro.usps.com/zcb",
+      "hn": "https://news.ycombinator.com/item?id=50431058"
+    },
+    {
+      "title": "Your TV can see through walls",
+      "score": 45,
+      "comments": 13,
+      "url": "https://maurycyz.com/projects/fading/",
+      "hn": "https://news.ycombinator.com/item?id=50436410"
+    },
+    {
+      "title": "Locating the source of a mysterious beep",
+      "score": 123,
+      "comments": 59,
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "hn": "https://news.ycombinator.com/item?id=50434310"
+    },
+    {
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "score": 365,
+      "comments": 31,
+      "url": "https://e-means.github.io/",
+      "hn": "https://news.ycombinator.com/item?id=50429734"
+    },
+    {
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "score": 516,
+      "comments": 282,
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "hn": "https://news.ycombinator.com/item?id=50427362"
+    },
+    {
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "score": 957,
+      "comments": 146,
+      "url": "https://www.foldableflight.com",
+      "hn": "https://news.ycombinator.com/item?id=50424581"
+    },
+    {
+      "title": "Horible public key tricks",
+      "score": 122,
+      "comments": 40,
+      "url": "https://maurycyz.com/projects/badcert/",
+      "hn": "https://news.ycombinator.com/item?id=50434264"
+    },
+    {
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "score": 29,
+      "comments": 8,
+      "url": "https://www.ultorg.com/",
+      "hn": "https://news.ycombinator.com/item?id=50435898"
+    }
+  ],
+  "github": [
+    {
+      "name": "NotRexed/Hookshot",
+      "stars": 5498,
+      "lang": "C++",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "name": "huamidev/GestaltX",
+      "stars": 3149,
+      "lang": "Swift",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backup",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "stars": 2554,
+      "lang": "C",
+      "desc": "",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "stars": 2130,
+      "lang": "C#",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, ",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 1972,
+      "lang": "JavaScript",
+      "desc": "",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "DIYgod/pinky",
+      "stars": 1541,
+      "lang": "Go",
+      "desc": "Let AI agents use your phone, with you in the loop.",
+      "url": "https://github.com/DIYgod/pinky"
+    },
+    {
+      "name": "IainKay/ram-altman",
+      "stars": 1527,
+      "lang": "Shell",
+      "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of ",
+      "url": "https://github.com/IainKay/ram-altman"
+    },
+    {
+      "name": "mmdoctor/google-pro-helper",
+      "stars": 1505,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    },
+    {
+      "name": "livliv-dev/player",
+      "stars": 1425,
+      "lang": "TypeScript",
+      "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "url": "https://github.com/livliv-dev/player"
+    },
+    {
+      "name": "jamesondh/chimera-vocal-synth",
+      "stars": 1334,
+      "lang": "Rust",
+      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-09",
+    "rates": {
+      "CNY": 6.6728,
+      "EUR": 0.89342,
+      "GBP": 0.74538,
+      "JPY": 157.95
+    }
+  },
+  "crypto": {
+    "btc": 74672,
+    "btc_24h": 0.9538523340559527,
+    "eth": 2118.15,
+    "eth_24h": 1.1598817532552868
+  }
+}

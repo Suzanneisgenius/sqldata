@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-11T19:34:29+00:00",
+  "local": "2026-11-12T03:34:29+08:00",
+  "hn": [
+    {
+      "title": "AWS Finally Built Its Own AWS Emulator",
+      "score": 227,
+      "comments": 60,
+      "url": "https://github.com/aws/aws-emulator",
+      "hn": "https://news.ycombinator.com/item?id=50456631"
+    },
+    {
+      "title": "Tim Peters has died",
+      "score": 369,
+      "comments": 40,
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "hn": "https://news.ycombinator.com/item?id=50450488"
+    },
+    {
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "score": 253,
+      "comments": 130,
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "hn": "https://news.ycombinator.com/item?id=50455394"
+    },
+    {
+      "title": "AWS Emulator and the engineer's job when agents write the code",
+      "score": 51,
+      "comments": 3,
+      "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+      "hn": "https://news.ycombinator.com/item?id=50456740"
+    },
+    {
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "score": 22,
+      "comments": 2,
+      "url": "https://termsheetplease.com/",
+      "hn": "https://news.ycombinator.com/item?id=50457230"
+    },
+    {
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "score": 75,
+      "comments": 13,
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "hn": "https://news.ycombinator.com/item?id=50455633"
+    },
+    {
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "score": 834,
+      "comments": 305,
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "hn": "https://news.ycombinator.com/item?id=50452455"
+    },
+    {
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "score": 210,
+      "comments": 49,
+      "url": "https://av.github.io/safe-sand/",
+      "hn": "https://news.ycombinator.com/item?id=50453288"
+    },
+    {
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "score": 78,
+      "comments": 36,
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "hn": "https://news.ycombinator.com/item?id=50454625"
+    },
+    {
+      "title": "Retirement Savings Are Fueling the AI Bubble",
+      "score": 7,
+      "comments": 0,
+      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+      "hn": "https://news.ycombinator.com/item?id=50457164"
+    }
+  ],
+  "github": [
+    {
+      "name": "NotRexed/Hookshot",
+      "stars": 7507,
+      "lang": "C++",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "name": "huamidev/GestaltX",
+      "stars": 6115,
+      "lang": "Swift",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backup",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "stars": 3165,
+      "lang": "C",
+      "desc": "",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "stars": 2579,
+      "lang": "C#",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, ",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 2032,
+      "lang": "JavaScript",
+      "desc": "",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "jamesondh/chimera-vocal-synth",
+      "stars": 1934,
+      "lang": "Rust",
+      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth"
+    },
+    {
+      "name": "IainKay/ram-altman",
+      "stars": 1927,
+      "lang": "Shell",
+      "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of ",
+      "url": "https://github.com/IainKay/ram-altman"
+    },
+    {
+      "name": "DIYgod/pinky",
+      "stars": 1854,
+      "lang": "Go",
+      "desc": "Let AI agents use your phone, with you in the loop.",
+      "url": "https://github.com/DIYgod/pinky"
+    },
+    {
+      "name": "mmdoctor/google-pro-helper",
+      "stars": 1721,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "stars": 1490,
+      "lang": "Swift",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-11",
+    "rates": {
+      "CNY": 6.6707,
+      "EUR": 0.89871,
+      "GBP": 0.75149,
+      "JPY": 159.23
+    }
+  },
+  "crypto": {
+    "btc": 74284,
+    "btc_24h": 1.1789379945095297,
+    "eth": 2077.68,
+    "eth_24h": 1.6994378426202703
+  }
+}

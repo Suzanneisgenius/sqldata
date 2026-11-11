@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-11T06:34:28+00:00",
+  "local": "2026-11-11T14:34:28+08:00",
+  "hn": [
+    {
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "score": 75,
+      "comments": 25,
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "hn": "https://news.ycombinator.com/item?id=50449748"
+    },
+    {
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "score": 29,
+      "comments": 5,
+      "url": "https://github.com/gmkurtzer/ginux",
+      "hn": "https://news.ycombinator.com/item?id=50450007"
+    },
+    {
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "score": 431,
+      "comments": 291,
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "hn": "https://news.ycombinator.com/item?id=50445401"
+    },
+    {
+      "title": ".name Grandfathered",
+      "score": 763,
+      "comments": 169,
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "hn": "https://news.ycombinator.com/item?id=50442736"
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "score": 844,
+      "comments": 300,
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "hn": "https://news.ycombinator.com/item?id=50441707"
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "score": 95,
+      "comments": 14,
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "hn": "https://news.ycombinator.com/item?id=50448921"
+    },
+    {
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "score": 53,
+      "comments": 28,
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "hn": "https://news.ycombinator.com/item?id=50449275"
+    },
+    {
+      "title": "Six Math Essentials",
+      "score": 204,
+      "comments": 37,
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "hn": "https://news.ycombinator.com/item?id=50446246"
+    },
+    {
+      "title": "A Compendium of Abandoned Greenhouses",
+      "score": 7,
+      "comments": 0,
+      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+      "hn": "https://news.ycombinator.com/item?id=50414657"
+    },
+    {
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "score": 358,
+      "comments": 214,
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "hn": "https://news.ycombinator.com/item?id=50443824"
+    }
+  ],
+  "github": [
+    {
+      "name": "NotRexed/Hookshot",
+      "stars": 6840,
+      "lang": "C++",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "name": "huamidev/GestaltX",
+      "stars": 5413,
+      "lang": "Swift",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backup",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "stars": 2960,
+      "lang": "C",
+      "desc": "",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "stars": 2470,
+      "lang": "C#",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, ",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 2014,
+      "lang": "JavaScript",
+      "desc": "",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "IainKay/ram-altman",
+      "stars": 1842,
+      "lang": "Shell",
+      "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of ",
+      "url": "https://github.com/IainKay/ram-altman"
+    },
+    {
+      "name": "jamesondh/chimera-vocal-synth",
+      "stars": 1768,
+      "lang": "Rust",
+      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth"
+    },
+    {
+      "name": "DIYgod/pinky",
+      "stars": 1762,
+      "lang": "Go",
+      "desc": "Let AI agents use your phone, with you in the loop.",
+      "url": "https://github.com/DIYgod/pinky"
+    },
+    {
+      "name": "mmdoctor/google-pro-helper",
+      "stars": 1673,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    },
+    {
+      "name": "voyager-so/vork",
+      "stars": 1366,
+      "lang": "Rust",
+      "desc": "Headless 3D and VFX engine for agents. Research preview.",
+      "url": "https://github.com/voyager-so/vork"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-10",
+    "rates": {
+      "CNY": 6.6703,
+      "EUR": 0.89174,
+      "GBP": 0.74501,
+      "JPY": 158.18
+    }
+  },
+  "crypto": {
+    "btc": 73764,
+    "btc_24h": -1.1457337924037962,
+    "eth": 2063.83,
+    "eth_24h": -2.510175538279953
+  }
+}

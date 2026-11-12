@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-12T07:18:30+00:00",
+  "local": "2026-11-12T15:18:30+08:00",
+  "hn": [
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "score": 361,
+      "comments": 49,
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "hn": "https://news.ycombinator.com/item?id=50459745"
+    },
+    {
+      "title": "Tim Peters has died",
+      "score": 1092,
+      "comments": 121,
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "hn": "https://news.ycombinator.com/item?id=50450488"
+    },
+    {
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "score": 130,
+      "comments": 54,
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "hn": "https://news.ycombinator.com/item?id=50462177"
+    },
+    {
+      "title": "AWS emulator",
+      "score": 797,
+      "comments": 231,
+      "url": "https://github.com/aws/aws-emulator",
+      "hn": "https://news.ycombinator.com/item?id=50456631"
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "score": 867,
+      "comments": 1225,
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "hn": "https://news.ycombinator.com/item?id=50459703"
+    },
+    {
+      "title": "Jane Street: Socratic Tutor",
+      "score": 22,
+      "comments": 5,
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "hn": "https://news.ycombinator.com/item?id=50438261"
+    },
+    {
+      "title": "Gemini Decisions API",
+      "score": 384,
+      "comments": 122,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "hn": "https://news.ycombinator.com/item?id=50456791"
+    },
+    {
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "score": 465,
+      "comments": 236,
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "hn": "https://news.ycombinator.com/item?id=50455394"
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "score": 514,
+      "comments": 503,
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "hn": "https://news.ycombinator.com/item?id=50458900"
+    },
+    {
+      "title": "I gave an agent a lakehouse and control of my garden",
+      "score": 14,
+      "comments": 1,
+      "url": "https://jatorre.github.io/garden/",
+      "hn": "https://news.ycombinator.com/item?id=50415162"
+    }
+  ],
+  "github": [
+    {
+      "name": "huamidev/GestaltX",
+      "stars": 6581,
+      "lang": "Swift",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backup",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "stars": 3332,
+      "lang": "C",
+      "desc": "",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "stars": 2664,
+      "lang": "C#",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, ",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 2046,
+      "lang": "JavaScript",
+      "desc": "",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "DIYgod/pinky",
+      "stars": 1909,
+      "lang": "Go",
+      "desc": "Let AI agents use your phone, with you in the loop.",
+      "url": "https://github.com/DIYgod/pinky"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "stars": 1643,
+      "lang": "Swift",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "name": "mahmoudtawfik1998/secure-pdf-document-processor",
+      "stars": 1305,
+      "lang": "HTML",
+      "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+      "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor"
+    },
+    {
+      "name": "hembramneeraj3-create/aida-64-extreme",
+      "stars": 1304,
+      "lang": "HTML",
+      "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+      "url": "https://github.com/hembramneeraj3-create/aida-64-extreme"
+    },
+    {
+      "name": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+      "stars": 1304,
+      "lang": "HTML",
+      "desc": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+      "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio"
+    },
+    {
+      "name": "AleRibeiro44/archicad-desktop-setup",
+      "stars": 1301,
+      "lang": "HTML",
+      "desc": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installat",
+      "url": "https://github.com/AleRibeiro44/archicad-desktop-setup"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-11",
+    "rates": {
+      "CNY": 6.6707,
+      "EUR": 0.89871,
+      "GBP": 0.75149,
+      "JPY": 159.23
+    }
+  },
+  "crypto": {
+    "btc": 73386,
+    "btc_24h": -0.31196346109569617,
+    "eth": 2044.4,
+    "eth_24h": -0.5699553579463501
+  }
+}

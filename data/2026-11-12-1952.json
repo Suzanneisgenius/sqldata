@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-12T19:52:55+00:00",
+  "local": "2026-11-13T03:52:55+08:00",
+  "hn": [
+    {
+      "title": "Jensen Huang resigns",
+      "score": 2094,
+      "comments": 2115,
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "hn": "https://news.ycombinator.com/item?id=50467087"
+    },
+    {
+      "title": "Rust 1.100.0",
+      "score": 254,
+      "comments": 53,
+      "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+      "hn": "https://news.ycombinator.com/item?id=50471793"
+    },
+    {
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "score": 34,
+      "comments": 6,
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "hn": "https://news.ycombinator.com/item?id=50472490"
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "score": 291,
+      "comments": 183,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "hn": "https://news.ycombinator.com/item?id=50471431"
+    },
+    {
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "score": 239,
+      "comments": 105,
+      "url": "https://news.ycombinator.com/item?id=50471668",
+      "hn": "https://news.ycombinator.com/item?id=50471668"
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "score": 40,
+      "comments": 4,
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "hn": "https://news.ycombinator.com/item?id=50472260"
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "score": 87,
+      "comments": 26,
+      "url": "https://github.com/simpsoka/zigzag",
+      "hn": "https://news.ycombinator.com/item?id=50470488"
+    },
+    {
+      "title": "Outlook is down, and so is Microsoft's status page",
+      "score": 179,
+      "comments": 48,
+      "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
+      "hn": "https://news.ycombinator.com/item?id=50471731"
+    },
+    {
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "score": 192,
+      "comments": 65,
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "hn": "https://news.ycombinator.com/item?id=50467618"
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "score": 170,
+      "comments": 64,
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "hn": "https://news.ycombinator.com/item?id=50468888"
+    }
+  ],
+  "github": [
+    {
+      "name": "huamidev/GestaltX",
+      "stars": 6905,
+      "lang": "Swift",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backup",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "stars": 3501,
+      "lang": "C",
+      "desc": "",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "stars": 2751,
+      "lang": "C#",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, ",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 2078,
+      "lang": "JavaScript",
+      "desc": "",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "DIYgod/pinky",
+      "stars": 1993,
+      "lang": "Go",
+      "desc": "Let AI agents use your phone, with you in the loop.",
+      "url": "https://github.com/DIYgod/pinky"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "stars": 1716,
+      "lang": "Swift",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "stars": 1296,
+      "lang": "Python",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "name": "mahmoudtawfik1998/secure-pdf-document-processor",
+      "stars": 1212,
+      "lang": "HTML",
+      "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+      "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor"
+    },
+    {
+      "name": "hembramneeraj3-create/aida-64-extreme",
+      "stars": 1208,
+      "lang": "HTML",
+      "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+      "url": "https://github.com/hembramneeraj3-create/aida-64-extreme"
+    },
+    {
+      "name": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+      "stars": 1207,
+      "lang": "HTML",
+      "desc": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+      "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-12",
+    "rates": {
+      "CNY": 6.6683,
+      "EUR": 0.90245,
+      "GBP": 0.7544,
+      "JPY": 159.7
+    }
+  },
+  "crypto": {
+    "btc": 71541,
+    "btc_24h": -3.7965735358272363,
+    "eth": 2011.44,
+    "eth_24h": -3.1224034646355556
+  }
+}

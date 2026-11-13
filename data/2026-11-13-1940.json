@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-13T19:40:32+00:00",
+  "local": "2026-11-14T03:40:32+08:00",
+  "hn": [
+    {
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "score": 103,
+      "comments": 22,
+      "url": "https://haddyalchaer.com/jepa",
+      "hn": "https://news.ycombinator.com/item?id=50487185"
+    },
+    {
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "score": 550,
+      "comments": 156,
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "hn": "https://news.ycombinator.com/item?id=50474959"
+    },
+    {
+      "title": "Models can now transmit viruses in weight-space",
+      "score": 46,
+      "comments": 21,
+      "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+      "hn": "https://news.ycombinator.com/item?id=50487762"
+    },
+    {
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "score": 379,
+      "comments": 267,
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "hn": "https://news.ycombinator.com/item?id=50482379"
+    },
+    {
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "score": 45,
+      "comments": 17,
+      "url": "https://isometricsf.com/",
+      "hn": "https://news.ycombinator.com/item?id=50487228"
+    },
+    {
+      "title": "A technical vision for the Haskell ecosystem",
+      "score": 132,
+      "comments": 54,
+      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "hn": "https://news.ycombinator.com/item?id=50484235"
+    },
+    {
+      "title": "FM-1 Workbench",
+      "score": 9,
+      "comments": 1,
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "hn": "https://news.ycombinator.com/item?id=50488325"
+    },
+    {
+      "title": "The avalanche that hit math is coming for AI development",
+      "score": 33,
+      "comments": 23,
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "hn": "https://news.ycombinator.com/item?id=50487854"
+    },
+    {
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "score": 16,
+      "comments": 3,
+      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "hn": "https://news.ycombinator.com/item?id=50487605"
+    },
+    {
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "score": 178,
+      "comments": 40,
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "hn": "https://news.ycombinator.com/item?id=50486748"
+    }
+  ],
+  "github": [
+    {
+      "name": "huamidev/GestaltX",
+      "stars": 7262,
+      "lang": "Swift",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backup",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "stars": 3826,
+      "lang": "C",
+      "desc": "",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "stars": 2861,
+      "lang": "C#",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, ",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "stars": 1903,
+      "lang": "Swift",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "stars": 1424,
+      "lang": "Python",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "name": "apex-compute/ANR",
+      "stars": 1393,
+      "lang": "C++",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "name": "agentes-chat/agentes-chat",
+      "stars": 1326,
+      "lang": "TypeScript",
+      "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in ",
+      "url": "https://github.com/agentes-chat/agentes-chat"
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "stars": 1225,
+      "lang": "TypeScript",
+      "desc": "Private AI meeting notes. Free and open source.",
+      "url": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "name": "HolyArrs/HolyArrs",
+      "stars": 1083,
+      "lang": "Go",
+      "desc": "One self-hosted app for your shows, movies and music.",
+      "url": "https://github.com/HolyArrs/HolyArrs"
+    },
+    {
+      "name": "Th0rgal/satmux",
+      "stars": 1072,
+      "lang": "Python",
+      "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TL",
+      "url": "https://github.com/Th0rgal/satmux"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-13",
+    "rates": {
+      "CNY": 6.6719,
+      "EUR": 0.90481,
+      "GBP": 0.75605,
+      "JPY": 160.0
+    }
+  },
+  "crypto": {
+    "btc": 68995,
+    "btc_24h": -3.4658522089108237,
+    "eth": 1949.05,
+    "eth_24h": -2.938133339093275
+  }
+}

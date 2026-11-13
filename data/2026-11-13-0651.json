@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-13T06:51:38+00:00",
+  "local": "2026-11-13T14:51:38+08:00",
+  "hn": [
+    {
+      "title": "Jensen Huang resigns",
+      "score": 3322,
+      "comments": 3021,
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "hn": "https://news.ycombinator.com/item?id=50467087"
+    },
+    {
+      "title": "IceWM",
+      "score": 74,
+      "comments": 30,
+      "url": "https://ice-wm.org/",
+      "hn": "https://news.ycombinator.com/item?id=50478515"
+    },
+    {
+      "title": "Rust 1.100",
+      "score": 594,
+      "comments": 227,
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "hn": "https://news.ycombinator.com/item?id=50472038"
+    },
+    {
+      "title": "Scientists claim the universe is twice as old as believed",
+      "score": 21,
+      "comments": 7,
+      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+      "hn": "https://news.ycombinator.com/item?id=50478635"
+    },
+    {
+      "title": "Switcher (2004)",
+      "score": 76,
+      "comments": 20,
+      "url": "https://folklore.org/Switcher.html",
+      "hn": "https://news.ycombinator.com/item?id=50477714"
+    },
+    {
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "score": 49,
+      "comments": 15,
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "hn": "https://news.ycombinator.com/item?id=50477649"
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "score": 382,
+      "comments": 105,
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "hn": "https://news.ycombinator.com/item?id=50472260"
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "score": 456,
+      "comments": 171,
+      "url": "https://github.com/simpsoka/zigzag",
+      "hn": "https://news.ycombinator.com/item?id=50470488"
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "score": 189,
+      "comments": 49,
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "hn": "https://news.ycombinator.com/item?id=50475713"
+    },
+    {
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "score": 395,
+      "comments": 298,
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "hn": "https://news.ycombinator.com/item?id=50477231"
+    }
+  ],
+  "github": [
+    {
+      "name": "huamidev/GestaltX",
+      "stars": 7056,
+      "lang": "Swift",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backup",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "stars": 3649,
+      "lang": "C",
+      "desc": "",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "stars": 2800,
+      "lang": "C#",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, ",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "stars": 1754,
+      "lang": "Swift",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "stars": 1357,
+      "lang": "Python",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "name": "agentes-chat/agentes-chat",
+      "stars": 1243,
+      "lang": "TypeScript",
+      "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in ",
+      "url": "https://github.com/agentes-chat/agentes-chat"
+    },
+    {
+      "name": "apex-compute/ANR",
+      "stars": 1094,
+      "lang": "C++",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "name": "Th0rgal/satmux",
+      "stars": 1058,
+      "lang": "Python",
+      "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TL",
+      "url": "https://github.com/Th0rgal/satmux"
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "stars": 1036,
+      "lang": "TypeScript",
+      "desc": "Private AI meeting notes. Free and open source.",
+      "url": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "name": "HolyArrs/HolyArrs",
+      "stars": 1017,
+      "lang": "Go",
+      "desc": "One self-hosted app for your shows, movies and music.",
+      "url": "https://github.com/HolyArrs/HolyArrs"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-12",
+    "rates": {
+      "CNY": 6.6683,
+      "EUR": 0.90245,
+      "GBP": 0.7544,
+      "JPY": 159.7
+    }
+  },
+  "crypto": {
+    "btc": 68820,
+    "btc_24h": -6.335458032536735,
+    "eth": 1929.98,
+    "eth_24h": -5.5030223920000205
+  }
+}

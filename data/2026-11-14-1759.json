@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-14T17:59:43+00:00",
+  "local": "2026-11-15T01:59:43+08:00",
+  "hn": [
+    {
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "score": 98,
+      "comments": 32,
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "hn": "https://news.ycombinator.com/item?id=50497892"
+    },
+    {
+      "title": "KDE: The documentary [video]",
+      "score": 177,
+      "comments": 28,
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "hn": "https://news.ycombinator.com/item?id=50496976"
+    },
+    {
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "score": 382,
+      "comments": 230,
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "hn": "https://news.ycombinator.com/item?id=50440709"
+    },
+    {
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "score": 75,
+      "comments": 19,
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "hn": "https://news.ycombinator.com/item?id=50496811"
+    },
+    {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "score": 84,
+      "comments": 14,
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "hn": "https://news.ycombinator.com/item?id=50497132"
+    },
+    {
+      "title": "Generative AI uses more energy on non-English text",
+      "score": 99,
+      "comments": 68,
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "hn": "https://news.ycombinator.com/item?id=50441444"
+    },
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "score": 10,
+      "comments": 0,
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "hn": "https://news.ycombinator.com/item?id=50499017"
+    },
+    {
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "score": 32,
+      "comments": 9,
+      "url": "https://github.com/FURSOY/fursoy-cpu",
+      "hn": "https://news.ycombinator.com/item?id=50497137"
+    },
+    {
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "score": 20,
+      "comments": 0,
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "hn": "https://news.ycombinator.com/item?id=50497589"
+    },
+    {
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "score": 22,
+      "comments": 1,
+      "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+      "hn": "https://news.ycombinator.com/item?id=50416011"
+    }
+  ],
+  "github": [
+    {
+      "name": "huamidev/GestaltX",
+      "stars": 7536,
+      "lang": "Swift",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backup",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "stars": 2967,
+      "lang": "C#",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, ",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "stars": 2046,
+      "lang": "Swift",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "name": "apex-compute/ANR",
+      "stars": 1749,
+      "lang": "C++",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "name": "deepseek-ai/chat-demo",
+      "stars": 1665,
+      "lang": "TypeScript",
+      "desc": "Chat Demo",
+      "url": "https://github.com/deepseek-ai/chat-demo"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "stars": 1490,
+      "lang": "Python",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "stars": 1413,
+      "lang": "TypeScript",
+      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Gr",
+      "url": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "name": "agentes-chat/agentes-chat",
+      "stars": 1384,
+      "lang": "TypeScript",
+      "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in ",
+      "url": "https://github.com/agentes-chat/agentes-chat"
+    },
+    {
+      "name": "HolyArrs/HolyArrs",
+      "stars": 1162,
+      "lang": "Go",
+      "desc": "One self-hosted app for your shows, movies and music.",
+      "url": "https://github.com/HolyArrs/HolyArrs"
+    },
+    {
+      "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "stars": 1045,
+      "lang": "Visual Basic .NET",
+      "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). ",
+      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-13",
+    "rates": {
+      "CNY": 6.6719,
+      "EUR": 0.90481,
+      "GBP": 0.75605,
+      "JPY": 160.0
+    }
+  },
+  "crypto": {
+    "btc": 65773,
+    "btc_24h": -4.529115822265028,
+    "eth": 1839.91,
+    "eth_24h": -5.019726718702679
+  }
+}

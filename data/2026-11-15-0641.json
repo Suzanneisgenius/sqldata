@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-15T06:41:33+00:00",
+  "local": "2026-11-15T14:41:33+08:00",
+  "hn": [
+    {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "score": 1027,
+      "comments": 688,
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "hn": "https://news.ycombinator.com/item?id=50500963"
+    },
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "score": 752,
+      "comments": 299,
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "hn": "https://news.ycombinator.com/item?id=50499017"
+    },
+    {
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "score": 41,
+      "comments": 6,
+      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "hn": "https://news.ycombinator.com/item?id=50478701"
+    },
+    {
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "score": 28,
+      "comments": 9,
+      "url": "https://github.com/matheuzgomes/gawain",
+      "hn": "https://news.ycombinator.com/item?id=50504072"
+    },
+    {
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "score": 173,
+      "comments": 76,
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "hn": "https://news.ycombinator.com/item?id=50501594"
+    },
+    {
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "score": 45,
+      "comments": 6,
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "hn": "https://news.ycombinator.com/item?id=50502988"
+    },
+    {
+      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "score": 19,
+      "comments": 1,
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "hn": "https://news.ycombinator.com/item?id=50503930"
+    },
+    {
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "score": 30,
+      "comments": 1,
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "hn": "https://news.ycombinator.com/item?id=50482222"
+    },
+    {
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "score": 175,
+      "comments": 46,
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "hn": "https://news.ycombinator.com/item?id=50503255"
+    },
+    {
+      "title": "A family tree of software job titles",
+      "score": 272,
+      "comments": 132,
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "hn": "https://news.ycombinator.com/item?id=50499038"
+    }
+  ],
+  "github": [
+    {
+      "name": "huamidev/GestaltX",
+      "stars": 7624,
+      "lang": "Swift",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backup",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "stars": 2078,
+      "lang": "Swift",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "name": "deepseek-ai/chat-demo",
+      "stars": 1892,
+      "lang": "TypeScript",
+      "desc": "Chat Demo",
+      "url": "https://github.com/deepseek-ai/chat-demo"
+    },
+    {
+      "name": "apex-compute/ANR",
+      "stars": 1882,
+      "lang": "C++",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "stars": 1523,
+      "lang": "TypeScript",
+      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Gr",
+      "url": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "stars": 1513,
+      "lang": "Python",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "name": "agentes-chat/agentes-chat",
+      "stars": 1419,
+      "lang": "TypeScript",
+      "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in ",
+      "url": "https://github.com/agentes-chat/agentes-chat"
+    },
+    {
+      "name": "HolyArrs/HolyArrs",
+      "stars": 1201,
+      "lang": "Go",
+      "desc": "One self-hosted app for your shows, movies and music.",
+      "url": "https://github.com/HolyArrs/HolyArrs"
+    },
+    {
+      "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "stars": 1051,
+      "lang": "Visual Basic .NET",
+      "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). ",
+      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows"
+    },
+    {
+      "name": "adriadam10/mkw-recomp",
+      "stars": 979,
+      "lang": "C",
+      "desc": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+      "url": "https://github.com/adriadam10/mkw-recomp"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-13",
+    "rates": {
+      "CNY": 6.6719,
+      "EUR": 0.90481,
+      "GBP": 0.75605,
+      "JPY": 160.0
+    }
+  },
+  "crypto": {
+    "btc": 64387,
+    "btc_24h": -4.28043538326554,
+    "eth": 1792.3,
+    "eth_24h": -5.835127689168102
+  }
+}

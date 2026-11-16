@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-16T06:39:13+00:00",
+  "local": "2026-11-16T14:39:13+08:00",
+  "hn": [
+    {
+      "title": "How to Make Almost Anything",
+      "score": 36,
+      "comments": 3,
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "hn": "https://news.ycombinator.com/item?id=50514470"
+    },
+    {
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "score": 246,
+      "comments": 61,
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "hn": "https://news.ycombinator.com/item?id=50513160"
+    },
+    {
+      "title": "Qwen4-Max",
+      "score": 343,
+      "comments": 117,
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "hn": "https://news.ycombinator.com/item?id=50513215"
+    },
+    {
+      "title": "Old Bitly links are being hijacked",
+      "score": 246,
+      "comments": 131,
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "hn": "https://news.ycombinator.com/item?id=50511395"
+    },
+    {
+      "title": "What's Next for Nvidia?",
+      "score": 187,
+      "comments": 245,
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "hn": "https://news.ycombinator.com/item?id=50512235"
+    },
+    {
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "score": 112,
+      "comments": 27,
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "hn": "https://news.ycombinator.com/item?id=50512441"
+    },
+    {
+      "title": "Preserving 30 years of Salon journalism",
+      "score": 133,
+      "comments": 37,
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "hn": "https://news.ycombinator.com/item?id=50511806"
+    },
+    {
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "score": 267,
+      "comments": 51,
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "hn": "https://news.ycombinator.com/item?id=50509837"
+    },
+    {
+      "title": "Stop Filming in Log",
+      "score": 22,
+      "comments": 10,
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "hn": "https://news.ycombinator.com/item?id=50514093"
+    },
+    {
+      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+      "score": 30,
+      "comments": 18,
+      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+      "hn": "https://news.ycombinator.com/item?id=50479405"
+    }
+  ],
+  "github": [
+    {
+      "name": "deepseek-ai/chat-demo",
+      "stars": 3514,
+      "lang": "TypeScript",
+      "desc": "Chat Demo",
+      "url": "https://github.com/deepseek-ai/chat-demo"
+    },
+    {
+      "name": "apex-compute/ANR",
+      "stars": 2280,
+      "lang": "C++",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "stars": 2156,
+      "lang": "Swift",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS Syst",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "name": "hitkeeen/blender-ai-mcp-addon",
+      "stars": 1781,
+      "lang": "-",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. ",
+      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "stars": 1709,
+      "lang": "TypeScript",
+      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Gr",
+      "url": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "stars": 1598,
+      "lang": "Python",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "name": "Noniv/abyssal-garden",
+      "stars": 1236,
+      "lang": "JavaScript",
+      "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunb",
+      "url": "https://github.com/Noniv/abyssal-garden"
+    },
+    {
+      "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "stars": 1233,
+      "lang": "Visual Basic .NET",
+      "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). ",
+      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows"
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1180,
+      "lang": "Python",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "name": "Eynnzerr/TelemetryCleaner",
+      "stars": 1144,
+      "lang": "Kotlin",
+      "desc": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-13",
+    "rates": {
+      "CNY": 6.6719,
+      "EUR": 0.90481,
+      "GBP": 0.75605,
+      "JPY": 160.0
+    }
+  },
+  "crypto": {
+    "btc": 64596,
+    "btc_24h": 0.37994474659999156,
+    "eth": 1811.4,
+    "eth_24h": 1.1370260285122396
+  }
+}

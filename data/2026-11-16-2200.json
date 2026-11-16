@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-16T22:00:14+00:00",
+  "local": "2026-11-17T06:00:14+08:00",
+  "hn": [
+    {
+      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+      "score": 584,
+      "comments": 449,
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "hn": "https://news.ycombinator.com/item?id=50521045"
+    },
+    {
+      "title": "BugMeNot Has Closed",
+      "score": 63,
+      "comments": 34,
+      "url": "https://www.bugmenot.com/",
+      "hn": "https://news.ycombinator.com/item?id=50523601"
+    },
+    {
+      "title": "Rust changed me as a developer",
+      "score": 63,
+      "comments": 23,
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "hn": "https://news.ycombinator.com/item?id=50522563"
+    },
+    {
+      "title": "Grazing sheep in fields with solar arrays",
+      "score": 167,
+      "comments": 138,
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "hn": "https://news.ycombinator.com/item?id=50520182"
+    },
+    {
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "score": 250,
+      "comments": 54,
+      "url": "https://burntsushi.net/jiff/",
+      "hn": "https://news.ycombinator.com/item?id=50519744"
+    },
+    {
+      "title": "Frame – 31.5\" color ePaper display",
+      "score": 222,
+      "comments": 141,
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "hn": "https://news.ycombinator.com/item?id=50519354"
+    },
+    {
+      "title": "My Quest to push native Three.js quality match AAA Game Engines",
+      "score": 35,
+      "comments": 3,
+      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "hn": "https://news.ycombinator.com/item?id=50523291"
+    },
+    {
+      "title": "Spamhaus new email sender requirements in November",
+      "score": 7,
+      "comments": 2,
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "hn": "https://news.ycombinator.com/item?id=50523784"
+    },
+    {
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "score": 21,
+      "comments": 5,
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "hn": "https://news.ycombinator.com/item?id=50522776"
+    },
+    {
+      "title": "Squircles",
+      "score": 66,
+      "comments": 24,
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "hn": "https://news.ycombinator.com/item?id=50515151"
+    }
+  ],
+  "github": [
+    {
+      "name": "deepseek-ai/chat-demo",
+      "stars": 4032,
+      "lang": "TypeScript",
+      "desc": "Chat Demo",
+      "url": "https://github.com/deepseek-ai/chat-demo"
+    },
+    {
+      "name": "apex-compute/ANR",
+      "stars": 2450,
+      "lang": "C++",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "stars": 2195,
+      "lang": "Swift",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS Syst",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "name": "hitkeeen/blender-ai-mcp-addon",
+      "stars": 2146,
+      "lang": "-",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. ",
+      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "stars": 1851,
+      "lang": "TypeScript",
+      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Gr",
+      "url": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "stars": 1657,
+      "lang": "Python",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "name": "Noniv/abyssal-garden",
+      "stars": 1646,
+      "lang": "JavaScript",
+      "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunb",
+      "url": "https://github.com/Noniv/abyssal-garden"
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1424,
+      "lang": "Python",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "name": "Eynnzerr/TelemetryCleaner",
+      "stars": 1295,
+      "lang": "Kotlin",
+      "desc": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner"
+    },
+    {
+      "name": "ZiChuanLan/freebie-radar",
+      "stars": 1116,
+      "lang": "TypeScript",
+      "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "url": "https://github.com/ZiChuanLan/freebie-radar"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-16",
+    "rates": {
+      "CNY": 6.6665,
+      "EUR": 0.90794,
+      "GBP": 0.75767,
+      "JPY": 159.6
+    }
+  },
+  "crypto": {
+    "btc": 65253,
+    "btc_24h": 0.4121508477648509,
+    "eth": 1828.6,
+    "eth_24h": 0.5562279824576635
+  }
+}

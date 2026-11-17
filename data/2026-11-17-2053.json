@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-17T20:53:58+00:00",
+  "local": "2026-11-18T04:53:58+08:00",
+  "hn": [
+    {
+      "title": "GPT‑6.2 Astra and Sol",
+      "score": 769,
+      "comments": 476,
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "hn": "https://news.ycombinator.com/item?id=50535230"
+    },
+    {
+      "title": "jQuery 4.1.0",
+      "score": 85,
+      "comments": 36,
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "hn": "https://news.ycombinator.com/item?id=50537156"
+    },
+    {
+      "title": "MAI Code 2 and Code 2 Flash",
+      "score": 165,
+      "comments": 78,
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "hn": "https://news.ycombinator.com/item?id=50535885"
+    },
+    {
+      "title": "350 years ago, this man discovered that light has a finite speed",
+      "score": 93,
+      "comments": 19,
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "hn": "https://news.ycombinator.com/item?id=50536813"
+    },
+    {
+      "title": "Web Browser Engineering (2021)",
+      "score": 38,
+      "comments": 4,
+      "url": "https://browser.engineering/",
+      "hn": "https://news.ycombinator.com/item?id=50537290"
+    },
+    {
+      "title": "Phrack 73 Released",
+      "score": 115,
+      "comments": 6,
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "hn": "https://news.ycombinator.com/item?id=50535992"
+    },
+    {
+      "title": "Solid 2.0",
+      "score": 101,
+      "comments": 22,
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "hn": "https://news.ycombinator.com/item?id=50536387"
+    },
+    {
+      "title": "Apple Services Down",
+      "score": 464,
+      "comments": 257,
+      "url": "https://developer.apple.com/system-status/",
+      "hn": "https://news.ycombinator.com/item?id=50535238"
+    },
+    {
+      "title": "What is the best harness for each model?",
+      "score": 282,
+      "comments": 101,
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "hn": "https://news.ycombinator.com/item?id=50532191"
+    },
+    {
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "score": 27,
+      "comments": 12,
+      "url": "https://starsling.dev",
+      "hn": "https://news.ycombinator.com/item?id=50536468"
+    }
+  ],
+  "github": [
+    {
+      "name": "deepseek-ai/chat-demo",
+      "stars": 4506,
+      "lang": "TypeScript",
+      "desc": "Chat Demo",
+      "url": "https://github.com/deepseek-ai/chat-demo"
+    },
+    {
+      "name": "apex-compute/ANR",
+      "stars": 2576,
+      "lang": "C++",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 2412,
+      "lang": "C++",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Window",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "name": "Noniv/abyssal-garden",
+      "stars": 2113,
+      "lang": "JavaScript",
+      "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunb",
+      "url": "https://github.com/Noniv/abyssal-garden"
+    },
+    {
+      "name": "Immortal-Protocols/lastbook",
+      "stars": 1585,
+      "lang": "Python",
+      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "url": "https://github.com/Immortal-Protocols/lastbook"
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1575,
+      "lang": "Python",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "name": "Eynnzerr/TelemetryCleaner",
+      "stars": 1465,
+      "lang": "Kotlin",
+      "desc": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner"
+    },
+    {
+      "name": "ZiChuanLan/freebie-radar",
+      "stars": 1416,
+      "lang": "TypeScript",
+      "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "url": "https://github.com/ZiChuanLan/freebie-radar"
+    },
+    {
+      "name": "gylive/google-ultra",
+      "stars": 1351,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
+      "name": "erkamyaman/rust-anything",
+      "stars": 983,
+      "lang": "Rust",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's record",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-17",
+    "rates": {
+      "CNY": 6.6661,
+      "EUR": 0.91,
+      "GBP": 0.75808,
+      "JPY": 159.3
+    }
+  },
+  "crypto": {
+    "btc": 63831,
+    "btc_24h": -1.7893109868242483,
+    "eth": 1792.83,
+    "eth_24h": -1.513431107158114
+  }
+}

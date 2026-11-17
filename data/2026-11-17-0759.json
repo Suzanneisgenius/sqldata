@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-17T07:59:50+00:00",
+  "local": "2026-11-17T15:59:50+08:00",
+  "hn": [
+    {
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "score": 1325,
+      "comments": 183,
+      "url": "https://www.cs.cmu.edu/learn/",
+      "hn": "https://news.ycombinator.com/item?id=50522980"
+    },
+    {
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "score": 531,
+      "comments": 371,
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "hn": "https://news.ycombinator.com/item?id=50524736"
+    },
+    {
+      "title": "BugMeNot has closed",
+      "score": 493,
+      "comments": 223,
+      "url": "https://www.bugmenot.com/",
+      "hn": "https://news.ycombinator.com/item?id=50523601"
+    },
+    {
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "score": 290,
+      "comments": 126,
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "hn": "https://news.ycombinator.com/item?id=50524767"
+    },
+    {
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "score": 98,
+      "comments": 53,
+      "url": "https://support.apple.com/en-us/149699",
+      "hn": "https://news.ycombinator.com/item?id=50526560"
+    },
+    {
+      "title": "OpenCode Browse",
+      "score": 224,
+      "comments": 119,
+      "url": "https://opencode.ai/product/browse",
+      "hn": "https://news.ycombinator.com/item?id=50523459"
+    },
+    {
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
+      "score": 96,
+      "comments": 16,
+      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+      "hn": "https://news.ycombinator.com/item?id=50525575"
+    },
+    {
+      "title": "Nimony: A New Compiler for Nim",
+      "score": 15,
+      "comments": 2,
+      "url": "https://nimony.org/",
+      "hn": "https://news.ycombinator.com/item?id=50512779"
+    },
+    {
+      "title": "The Fossils That Haunted Lovecraft",
+      "score": 20,
+      "comments": 3,
+      "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+      "hn": "https://news.ycombinator.com/item?id=50512576"
+    },
+    {
+      "title": "Chemistry is Actually Geometry",
+      "score": 204,
+      "comments": 104,
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "hn": "https://news.ycombinator.com/item?id=50522643"
+    }
+  ],
+  "github": [
+    {
+      "name": "deepseek-ai/chat-demo",
+      "stars": 4290,
+      "lang": "TypeScript",
+      "desc": "Chat Demo",
+      "url": "https://github.com/deepseek-ai/chat-demo"
+    },
+    {
+      "name": "apex-compute/ANR",
+      "stars": 2510,
+      "lang": "C++",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "name": "hitkeeen/blender-ai-mcp-addon",
+      "stars": 2320,
+      "lang": "-",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. ",
+      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+    },
+    {
+      "name": "Noniv/abyssal-garden",
+      "stars": 1879,
+      "lang": "JavaScript",
+      "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunb",
+      "url": "https://github.com/Noniv/abyssal-garden"
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1517,
+      "lang": "Python",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "name": "Eynnzerr/TelemetryCleaner",
+      "stars": 1391,
+      "lang": "Kotlin",
+      "desc": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner"
+    },
+    {
+      "name": "ZiChuanLan/freebie-radar",
+      "stars": 1261,
+      "lang": "TypeScript",
+      "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "url": "https://github.com/ZiChuanLan/freebie-radar"
+    },
+    {
+      "name": "Immortal-Protocols/lastbook",
+      "stars": 915,
+      "lang": "Python",
+      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "url": "https://github.com/Immortal-Protocols/lastbook"
+    },
+    {
+      "name": "opencoredev/islandcn",
+      "stars": 787,
+      "lang": "TypeScript",
+      "desc": "The open-source Dynamic Island for React, installed with shadcn.",
+      "url": "https://github.com/opencoredev/islandcn"
+    },
+    {
+      "name": "AIRzZ90/study-materials-fork",
+      "stars": 747,
+      "lang": "TypeScript",
+      "desc": "A cross-platform Tauri 2 interface and interaction practice project",
+      "url": "https://github.com/AIRzZ90/study-materials-fork"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-16",
+    "rates": {
+      "CNY": 6.6665,
+      "EUR": 0.90794,
+      "GBP": 0.75767,
+      "JPY": 159.6
+    }
+  },
+  "crypto": {
+    "btc": 64655,
+    "btc_24h": -0.47681371420776764,
+    "eth": 1830.16,
+    "eth_24h": 0.5144881548617393
+  }
+}

@@ -2,8 +2,8 @@
 
 Twice-daily snapshot of Hacker News, new GitHub repos, FX rates and crypto, refreshed automatically by GitHub Actions (08:17 / 20:17 Asia/Shanghai).
 
-**Last updated:** 2026-11-18 15:36 (UTC+8) · `2026-11-18 07:36Z`  
-**Stats:** 28 snapshots · 14 days tracked · current streak 14 day(s) · since 2026-11-05
+**Last updated:** 2026-11-19 04:29 (UTC+8) · `2026-11-18 20:29Z`  
+**Stats:** 29 snapshots · 14 days tracked · current streak 14 day(s) · since 2026-11-05
 
 📈 **Daily trending digest:** [TRENDING.md](TRENDING.md) · archive in `trending/` · a GitHub Issue is opened every morning
 
@@ -11,42 +11,42 @@ Twice-daily snapshot of Hacker News, new GitHub repos, FX rates and crypto, refr
 
 | Pair | Value | | Asset | USD | 24h |
 |---|---:|---|---|---:|---:|
-| USD/CNY | 6.6661 | | BTC | 64,604 | +0.0% |
-| USD/EUR | 0.9100 | | ETH | 1,811 | -0.9% |
-| USD/JPY | 159.30 | | | | |
-| USD/GBP | 0.7581 | | | | |
+| USD/CNY | 6.6672 | | BTC | 62,525 | -2.2% |
+| USD/EUR | 0.9117 | | ETH | 1,749 | -2.7% |
+| USD/JPY | 159.42 | | | | |
+| USD/GBP | 0.7594 | | | | |
 
-FX reference date (ECB): 2026-11-17 · history in `data/fx-history.csv`
+FX reference date (ECB): 2026-11-18 · history in `data/fx-history.csv`
 
 ## Hacker News · Top 10
 
 | # | Story | Points | Comments |
 |---:|---|---:|---:|
-| 1 | [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | 806 | [213](https://news.ycombinator.com/item?id=50538240) |
-| 2 | [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in) | 310 | [133](https://news.ycombinator.com/item?id=50540437) |
-| 3 | [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) | 1231 | [764](https://news.ycombinator.com/item?id=50535230) |
-| 4 | [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) | 498 | [155](https://news.ycombinator.com/item?id=50538994) |
-| 5 | [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) | 305 | [240](https://news.ycombinator.com/item?id=50540178) |
-| 6 | [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/) | 249 | [37](https://news.ycombinator.com/item?id=50542135) |
-| 7 | [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai) | 22 | [6](https://news.ycombinator.com/item?id=50542705) |
-| 8 | [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) | 503 | [228](https://news.ycombinator.com/item?id=50534631) |
-| 9 | [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime) | 272 | [62](https://news.ycombinator.com/item?id=50539610) |
-| 10 | [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci) | 20 | [1](https://news.ycombinator.com/item?id=50542264) |
+| 1 | [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) | 726 | [291](https://news.ycombinator.com/item?id=50547374) |
+| 2 | [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) | 310 | [198](https://news.ycombinator.com/item?id=50548021) |
+| 3 | [Inside Deutsche Bank](https://www.inside-db.com/) | 368 | [137](https://news.ycombinator.com/item?id=50547620) |
+| 4 | [DNS resolvers are the wrong place to fight piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/) | 466 | [157](https://news.ycombinator.com/item?id=50545958) |
+| 5 | [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/) | 95 | [75](https://news.ycombinator.com/item?id=50550415) |
+| 6 | [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/) | 172 | [90](https://news.ycombinator.com/item?id=50547777) |
+| 7 | [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/) | 70 | [25](https://news.ycombinator.com/item?id=50549493) |
+| 8 | [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation) | 43 | [4](https://news.ycombinator.com/item?id=50550096) |
+| 9 | [KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)](https://www.cve.org/CVERecord?id=CVE-2026-99312) | 142 | [86](https://news.ycombinator.com/item?id=50548004) |
+| 10 | [The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026) | 185 | [141](https://news.ycombinator.com/item?id=50546914) |
 
 ## GitHub · Hottest repos created in the last 7 days
 
 | # | Repo | Stars | Lang | Description |
 |---:|---|---:|---|---|
-| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | 4,629 | TypeScript | Chat Demo |
-| 2 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | 3,190 | C++ | Show the battery level of wireless mice, headsets, keyboards and controllers on the Window |
-| 3 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | 2,245 | JavaScript | A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunb |
-| 4 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | 2,206 | Python |  |
-| 5 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 1,949 | Rust | Rewrite your whole app in Rust, one piece at a time, checked against the original's record |
-| 6 | [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) | 1,909 | Python | Offline knowledge AI, maps and videos for survival and rebuilding |
-| 7 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | 1,607 | Python | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
-| 8 | [ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar) | 1,498 | TypeScript | 白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送 |
-| 9 | [CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian) | 1,157 | JavaScript | 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏 |
-| 10 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 983 | Python | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefi |
+| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | 4,806 | TypeScript | Chat Demo |
+| 2 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | 3,788 | C++ | Show the battery level of wireless mice, headsets, keyboards and controllers on the Window |
+| 3 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 3,129 | Rust | Rewrite your whole app in Rust, one piece at a time, checked against the original's record |
+| 4 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | 2,370 | JavaScript | A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunb |
+| 5 | [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) | 2,130 | Python | Offline knowledge AI, maps and videos for survival and rebuilding |
+| 6 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | 1,626 | Python | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
+| 7 | [ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar) | 1,610 | TypeScript | 白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送 |
+| 8 | [CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian) | 1,292 | JavaScript | 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏 |
+| 9 | [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | 1,100 | Python | ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。 |
+| 10 | [haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut) | 1,062 | Python | AI clipping for long videos and live streams. Self-hosted, bring your own AI key. |
 
 ---
 Raw snapshots live in `data/` (one JSON per run). Script: `scripts/update.py`.

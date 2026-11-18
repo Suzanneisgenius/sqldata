@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-18T07:36:50+00:00",
+  "local": "2026-11-18T15:36:50+08:00",
+  "hn": [
+    {
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "score": 806,
+      "comments": 213,
+      "url": "https://calif.io/java4shell/",
+      "hn": "https://news.ycombinator.com/item?id=50538240"
+    },
+    {
+      "title": "ID.me terms required for IRS sign-in",
+      "score": 310,
+      "comments": 133,
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "hn": "https://news.ycombinator.com/item?id=50540437"
+    },
+    {
+      "title": "GPT‑6.2 Astra and Sol",
+      "score": 1231,
+      "comments": 764,
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "hn": "https://news.ycombinator.com/item?id=50535230"
+    },
+    {
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "score": 498,
+      "comments": 155,
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "hn": "https://news.ycombinator.com/item?id=50538994"
+    },
+    {
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "score": 305,
+      "comments": 240,
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "hn": "https://news.ycombinator.com/item?id=50540178"
+    },
+    {
+      "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+      "score": 249,
+      "comments": 37,
+      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+      "hn": "https://news.ycombinator.com/item?id=50542135"
+    },
+    {
+      "title": "AI is killing All About Berlin",
+      "score": 22,
+      "comments": 6,
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "hn": "https://news.ycombinator.com/item?id=50542705"
+    },
+    {
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "score": 503,
+      "comments": 228,
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "hn": "https://news.ycombinator.com/item?id=50534631"
+    },
+    {
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "score": 272,
+      "comments": 62,
+      "url": "https://github.com/microsoft/onnxruntime",
+      "hn": "https://news.ycombinator.com/item?id=50539610"
+    },
+    {
+      "title": "Why Fibonacci?",
+      "score": 20,
+      "comments": 1,
+      "url": "https://www.evilgeniuslabs.org/why-fibonacci",
+      "hn": "https://news.ycombinator.com/item?id=50542264"
+    }
+  ],
+  "github": [
+    {
+      "name": "deepseek-ai/chat-demo",
+      "stars": 4629,
+      "lang": "TypeScript",
+      "desc": "Chat Demo",
+      "url": "https://github.com/deepseek-ai/chat-demo"
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 3190,
+      "lang": "C++",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Window",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "name": "Noniv/abyssal-garden",
+      "stars": 2245,
+      "lang": "JavaScript",
+      "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunb",
+      "url": "https://github.com/Noniv/abyssal-garden"
+    },
+    {
+      "name": "gylive/google-ultra",
+      "stars": 2206,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
+      "name": "erkamyaman/rust-anything",
+      "stars": 1949,
+      "lang": "Rust",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's record",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "name": "Immortal-Protocols/lastbook",
+      "stars": 1909,
+      "lang": "Python",
+      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "url": "https://github.com/Immortal-Protocols/lastbook"
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1607,
+      "lang": "Python",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "name": "ZiChuanLan/freebie-radar",
+      "stars": 1498,
+      "lang": "TypeScript",
+      "desc": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "url": "https://github.com/ZiChuanLan/freebie-radar"
+    },
+    {
+      "name": "CzzzzzzJ/mdldm-maitian",
+      "stars": 1157,
+      "lang": "JavaScript",
+      "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "stars": 983,
+      "lang": "Python",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefi",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-17",
+    "rates": {
+      "CNY": 6.6661,
+      "EUR": 0.91,
+      "GBP": 0.75808,
+      "JPY": 159.3
+    }
+  },
+  "crypto": {
+    "btc": 64604,
+    "btc_24h": 0.011153811709539399,
+    "eth": 1810.92,
+    "eth_24h": -0.9114663644719615
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-19T07:31:54+00:00",
+  "local": "2026-11-19T15:31:54+08:00",
+  "hn": [
+    {
+      "title": "Gemini 4 Neon",
+      "score": 722,
+      "comments": 608,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "hn": "https://news.ycombinator.com/item?id=50552424"
+    },
+    {
+      "title": "Unauthenticated remote code execution in Nginx",
+      "score": 1297,
+      "comments": 569,
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "hn": "https://news.ycombinator.com/item?id=50547374"
+    },
+    {
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "score": 205,
+      "comments": 65,
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "hn": "https://news.ycombinator.com/item?id=50554038"
+    },
+    {
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "score": 34,
+      "comments": 7,
+      "url": "https://kapteko.com/15-million-webservers/",
+      "hn": "https://news.ycombinator.com/item?id=50556533"
+    },
+    {
+      "title": "Seven new models at scalable price-performance",
+      "score": 516,
+      "comments": 340,
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "hn": "https://news.ycombinator.com/item?id=50548021"
+    },
+    {
+      "title": "Anthropic prices initial public offering",
+      "score": 155,
+      "comments": 152,
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "hn": "https://news.ycombinator.com/item?id=50553843"
+    },
+    {
+      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "score": 21,
+      "comments": 0,
+      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
+      "hn": "https://news.ycombinator.com/item?id=50518303"
+    },
+    {
+      "title": "Inside Deutsche Bank",
+      "score": 648,
+      "comments": 207,
+      "url": "https://www.inside-db.com/",
+      "hn": "https://news.ycombinator.com/item?id=50547620"
+    },
+    {
+      "title": "LLM assisted reverse engineering",
+      "score": 166,
+      "comments": 42,
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "hn": "https://news.ycombinator.com/item?id=50553225"
+    },
+    {
+      "title": "Genie 4 is now available",
+      "score": 236,
+      "comments": 160,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "hn": "https://news.ycombinator.com/item?id=50550415"
+    }
+  ],
+  "github": [
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 4181,
+      "lang": "C++",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Window",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "name": "erkamyaman/rust-anything",
+      "stars": 3847,
+      "lang": "Rust",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's record",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1635,
+      "lang": "Python",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "name": "Hut-hzf/ung220z-tool",
+      "stars": 1477,
+      "lang": "Python",
+      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "url": "https://github.com/Hut-hzf/ung220z-tool"
+    },
+    {
+      "name": "CzzzzzzJ/mdldm-maitian",
+      "stars": 1444,
+      "lang": "JavaScript",
+      "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "stars": 1160,
+      "lang": "Python",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefi",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "name": "haziqahmedqasmi/PeakCut",
+      "stars": 1150,
+      "lang": "Python",
+      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut"
+    },
+    {
+      "name": "joshpuckett/allo",
+      "stars": 1069,
+      "lang": "Python",
+      "desc": "Allo is your friendly neighborhood typeface, free and open source",
+      "url": "https://github.com/joshpuckett/allo"
+    },
+    {
+      "name": "zephyr4123/snug",
+      "stars": 1036,
+      "lang": "Swift",
+      "desc": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU R",
+      "url": "https://github.com/zephyr4123/snug"
+    },
+    {
+      "name": "chuanqisun/spaceship",
+      "stars": 880,
+      "lang": "HTML",
+      "desc": "Steer your ideas in realtime",
+      "url": "https://github.com/chuanqisun/spaceship"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-18",
+    "rates": {
+      "CNY": 6.6672,
+      "EUR": 0.91174,
+      "GBP": 0.75939,
+      "JPY": 159.42
+    }
+  },
+  "crypto": {
+    "btc": 63535,
+    "btc_24h": -1.7501604478102242,
+    "eth": 1801.92,
+    "eth_24h": -0.5861701304205822
+  }
+}

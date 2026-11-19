@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-19T20:34:18+00:00",
+  "local": "2026-11-20T04:34:18+08:00",
+  "hn": [
+    {
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "score": 535,
+      "comments": 846,
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "hn": "https://news.ycombinator.com/item?id=50562754"
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "score": 233,
+      "comments": 84,
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "hn": "https://news.ycombinator.com/item?id=50563148"
+    },
+    {
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "score": 167,
+      "comments": 15,
+      "url": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "hn": "https://news.ycombinator.com/item?id=50563066"
+    },
+    {
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "score": 56,
+      "comments": 28,
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "hn": "https://news.ycombinator.com/item?id=50564159"
+    },
+    {
+      "title": "Garage Door Spam",
+      "score": 618,
+      "comments": 261,
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "hn": "https://news.ycombinator.com/item?id=50519231"
+    },
+    {
+      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+      "score": 129,
+      "comments": 62,
+      "url": "https://cornholenews.news",
+      "hn": "https://news.ycombinator.com/item?id=50561515"
+    },
+    {
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "score": 301,
+      "comments": 141,
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "hn": "https://news.ycombinator.com/item?id=50562113"
+    },
+    {
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "score": 55,
+      "comments": 55,
+      "url": "https://github.com/onlook-dev/onlook/",
+      "hn": "https://news.ycombinator.com/item?id=50562320"
+    },
+    {
+      "title": "Someone reported java4shell bug in September 2026",
+      "score": 263,
+      "comments": 71,
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "hn": "https://news.ycombinator.com/item?id=50558906"
+    },
+    {
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "score": 23,
+      "comments": 28,
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "hn": "https://news.ycombinator.com/item?id=50564366"
+    }
+  ],
+  "github": [
+    {
+      "name": "erkamyaman/rust-anything",
+      "stars": 4988,
+      "lang": "Rust",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's record",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 4586,
+      "lang": "C++",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Window",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "name": "gylive/google-ultra",
+      "stars": 2437,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
+      "name": "Hut-hzf/ung220z-tool",
+      "stars": 1720,
+      "lang": "Python",
+      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "url": "https://github.com/Hut-hzf/ung220z-tool"
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1654,
+      "lang": "Python",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "name": "CzzzzzzJ/mdldm-maitian",
+      "stars": 1594,
+      "lang": "JavaScript",
+      "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
+    },
+    {
+      "name": "haziqahmedqasmi/PeakCut",
+      "stars": 1318,
+      "lang": "Python",
+      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut"
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "stars": 1248,
+      "lang": "Python",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefi",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "name": "joshpuckett/allo",
+      "stars": 1140,
+      "lang": "Python",
+      "desc": "Allo is your friendly neighborhood typeface, free and open source",
+      "url": "https://github.com/joshpuckett/allo"
+    },
+    {
+      "name": "zephyr4123/snug",
+      "stars": 1090,
+      "lang": "Swift",
+      "desc": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU R",
+      "url": "https://github.com/zephyr4123/snug"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-19",
+    "rates": {
+      "CNY": 6.6667,
+      "EUR": 0.90975,
+      "GBP": 0.76038,
+      "JPY": 159.97
+    }
+  },
+  "crypto": {
+    "btc": 61753,
+    "btc_24h": -1.2729567462447255,
+    "eth": 1754.71,
+    "eth_24h": 0.2893447488056627
+  }
+}

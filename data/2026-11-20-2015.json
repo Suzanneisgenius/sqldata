@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-20T20:15:52+00:00",
+  "local": "2026-11-21T04:15:52+08:00",
+  "hn": [
+    {
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "score": 643,
+      "comments": 277,
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "hn": "https://news.ycombinator.com/item?id=50579568"
+    },
+    {
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "score": 1981,
+      "comments": 1329,
+      "url": "https://alpo.ge/remark.pdf",
+      "hn": "https://news.ycombinator.com/item?id=50574968"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "score": 241,
+      "comments": 90,
+      "url": "https://arxiv.org/abs/2611.21885",
+      "hn": "https://news.ycombinator.com/item?id=50577265"
+    },
+    {
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "score": 152,
+      "comments": 33,
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "hn": "https://news.ycombinator.com/item?id=50578358"
+    },
+    {
+      "title": "We promoted developers into architects without informing them",
+      "score": 92,
+      "comments": 48,
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "hn": "https://news.ycombinator.com/item?id=50579331"
+    },
+    {
+      "title": "Vibecoding an inference chip",
+      "score": 42,
+      "comments": 11,
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "hn": "https://news.ycombinator.com/item?id=50579297"
+    },
+    {
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "score": 187,
+      "comments": 64,
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "hn": "https://news.ycombinator.com/item?id=50576232"
+    },
+    {
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "score": 531,
+      "comments": 268,
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "hn": "https://news.ycombinator.com/item?id=50572355"
+    },
+    {
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "score": 16,
+      "comments": 4,
+      "url": "https://winedroid.soham.sh/demo/",
+      "hn": "https://news.ycombinator.com/item?id=50580536"
+    },
+    {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "score": 550,
+      "comments": 295,
+      "url": "https://architectlabs.com/blog/frostbite",
+      "hn": "https://news.ycombinator.com/item?id=50572503"
+    }
+  ],
+  "github": [
+    {
+      "name": "erkamyaman/rust-anything",
+      "stars": 6495,
+      "lang": "Rust",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's record",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 5200,
+      "lang": "C++",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Window",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "name": "gylive/google-ultra",
+      "stars": 2522,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
+      "name": "Hut-hzf/ung220z-tool",
+      "stars": 1989,
+      "lang": "Python",
+      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "url": "https://github.com/Hut-hzf/ung220z-tool"
+    },
+    {
+      "name": "CzzzzzzJ/mdldm-maitian",
+      "stars": 1709,
+      "lang": "JavaScript",
+      "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1692,
+      "lang": "Python",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "name": "haziqahmedqasmi/PeakCut",
+      "stars": 1527,
+      "lang": "Python",
+      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut"
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 1491,
+      "lang": "-",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. ",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "stars": 1319,
+      "lang": "Python",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefi",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "name": "joshpuckett/allo",
+      "stars": 1243,
+      "lang": "Python",
+      "desc": "Allo is your friendly neighborhood typeface, free and open source",
+      "url": "https://github.com/joshpuckett/allo"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-20",
+    "rates": {
+      "CNY": 6.6777,
+      "EUR": 0.90992,
+      "GBP": 0.76192,
+      "JPY": 158.64
+    }
+  },
+  "crypto": {
+    "btc": 58428,
+    "btc_24h": -5.944956196233236,
+    "eth": 1608.47,
+    "eth_24h": -8.544357022599284
+  }
+}

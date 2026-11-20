@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-20T07:24:11+00:00",
+  "local": "2026-11-20T15:24:11+08:00",
+  "hn": [
+    {
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "score": 172,
+      "comments": 98,
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "hn": "https://news.ycombinator.com/item?id=50569226"
+    },
+    {
+      "title": "Jujutsu Primer",
+      "score": 40,
+      "comments": 20,
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "hn": "https://news.ycombinator.com/item?id=50570628"
+    },
+    {
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "score": 239,
+      "comments": 52,
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "hn": "https://news.ycombinator.com/item?id=50570479"
+    },
+    {
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "score": 63,
+      "comments": 8,
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "hn": "https://news.ycombinator.com/item?id=50569516"
+    },
+    {
+      "title": "FFmpeg 9.1 'Gauss'",
+      "score": 59,
+      "comments": 13,
+      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "hn": "https://news.ycombinator.com/item?id=50569998"
+    },
+    {
+      "title": "Bit Shifting in Basic",
+      "score": 22,
+      "comments": 1,
+      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+      "hn": "https://news.ycombinator.com/item?id=50521512"
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "score": 465,
+      "comments": 221,
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "hn": "https://news.ycombinator.com/item?id=50563148"
+    },
+    {
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "score": 89,
+      "comments": 27,
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "hn": "https://news.ycombinator.com/item?id=50568861"
+    },
+    {
+      "title": "How to CAD Almost Anything",
+      "score": 226,
+      "comments": 71,
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "hn": "https://news.ycombinator.com/item?id=50528119"
+    },
+    {
+      "title": "Garage Door Spam",
+      "score": 833,
+      "comments": 350,
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "hn": "https://news.ycombinator.com/item?id=50519231"
+    }
+  ],
+  "github": [
+    {
+      "name": "erkamyaman/rust-anything",
+      "stars": 5625,
+      "lang": "Rust",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's record",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 4786,
+      "lang": "C++",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Window",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "name": "gylive/google-ultra",
+      "stars": 2482,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
+      "name": "Hut-hzf/ung220z-tool",
+      "stars": 1850,
+      "lang": "Python",
+      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "url": "https://github.com/Hut-hzf/ung220z-tool"
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1669,
+      "lang": "Python",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "name": "CzzzzzzJ/mdldm-maitian",
+      "stars": 1646,
+      "lang": "JavaScript",
+      "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
+    },
+    {
+      "name": "haziqahmedqasmi/PeakCut",
+      "stars": 1394,
+      "lang": "Python",
+      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut"
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "stars": 1277,
+      "lang": "Python",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefi",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "name": "sourmitocand1987/VividFrame-GPU",
+      "stars": 1211,
+      "lang": "-",
+      "desc": "Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-ti",
+      "url": "https://github.com/sourmitocand1987/VividFrame-GPU"
+    },
+    {
+      "name": "joshpuckett/allo",
+      "stars": 1173,
+      "lang": "Python",
+      "desc": "Allo is your friendly neighborhood typeface, free and open source",
+      "url": "https://github.com/joshpuckett/allo"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-19",
+    "rates": {
+      "CNY": 6.6667,
+      "EUR": 0.90975,
+      "GBP": 0.76038,
+      "JPY": 159.97
+    }
+  },
+  "crypto": {
+    "btc": 61822,
+    "btc_24h": -2.7622931543233546,
+    "eth": 1744.11,
+    "eth_24h": -3.269136169161107
+  }
+}

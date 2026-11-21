@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-21T07:17:07+00:00",
+  "local": "2026-11-21T15:17:07+08:00",
+  "hn": [
+    {
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "score": 1890,
+      "comments": 869,
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "hn": "https://news.ycombinator.com/item?id=50579568"
+    },
+    {
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "score": 2532,
+      "comments": 1748,
+      "url": "https://alpo.ge/remark.pdf",
+      "hn": "https://news.ycombinator.com/item?id=50574968"
+    },
+    {
+      "title": "Inkling 2 Mini",
+      "score": 896,
+      "comments": 168,
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "hn": "https://news.ycombinator.com/item?id=50581260"
+    },
+    {
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "score": 19,
+      "comments": 2,
+      "url": "http://ricapar.net/ClawDOS/",
+      "hn": "https://news.ycombinator.com/item?id=50586292"
+    },
+    {
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "score": 215,
+      "comments": 57,
+      "url": "https://ninlive.com/",
+      "hn": "https://news.ycombinator.com/item?id=50583274"
+    },
+    {
+      "title": "We promoted developers into architects without informing them",
+      "score": 386,
+      "comments": 222,
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "hn": "https://news.ycombinator.com/item?id=50579331"
+    },
+    {
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "score": 405,
+      "comments": 171,
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "hn": "https://news.ycombinator.com/item?id=50578358"
+    },
+    {
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "score": 52,
+      "comments": 17,
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "hn": "https://news.ycombinator.com/item?id=50585376"
+    },
+    {
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "score": 107,
+      "comments": 38,
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "hn": "https://news.ycombinator.com/item?id=50534387"
+    },
+    {
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "score": 85,
+      "comments": 17,
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "hn": "https://news.ycombinator.com/item?id=50583768"
+    }
+  ],
+  "github": [
+    {
+      "name": "erkamyaman/rust-anything",
+      "stars": 6860,
+      "lang": "Rust",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's record",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 5442,
+      "lang": "C++",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Window",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "name": "gylive/google-ultra",
+      "stars": 2552,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
+      "name": "Hut-hzf/ung220z-tool",
+      "stars": 2086,
+      "lang": "Python",
+      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "url": "https://github.com/Hut-hzf/ung220z-tool"
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 1862,
+      "lang": "-",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. ",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "stars": 1380,
+      "lang": "Python",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefi",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 1367,
+      "lang": "Python",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "joshpuckett/allo",
+      "stars": 1263,
+      "lang": "Python",
+      "desc": "Allo is your friendly neighborhood typeface, free and open source",
+      "url": "https://github.com/joshpuckett/allo"
+    },
+    {
+      "name": "chuanqisun/spaceship",
+      "stars": 997,
+      "lang": "HTML",
+      "desc": "Steer ideas like a space pilot!",
+      "url": "https://github.com/chuanqisun/spaceship"
+    },
+    {
+      "name": "siliconjungle/shapeshift-labs-ink-studio",
+      "stars": 891,
+      "lang": "JavaScript",
+      "desc": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-20",
+    "rates": {
+      "CNY": 6.6777,
+      "EUR": 0.90992,
+      "GBP": 0.76192,
+      "JPY": 158.64
+    }
+  },
+  "crypto": {
+    "btc": 58129,
+    "btc_24h": -6.149834790412352,
+    "eth": 1632.34,
+    "eth_24h": -6.611625620204774
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-21T19:13:55+00:00",
+  "local": "2026-11-22T03:13:55+08:00",
+  "hn": [
+    {
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "score": 69,
+      "comments": 6,
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "hn": "https://news.ycombinator.com/item?id=50591853"
+    },
+    {
+      "title": "Detonating a pile of lead azide",
+      "score": 381,
+      "comments": 243,
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "hn": "https://news.ycombinator.com/item?id=50588982"
+    },
+    {
+      "title": "Lean verification of the Riemann Hypothesis",
+      "score": 510,
+      "comments": 399,
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "hn": "https://news.ycombinator.com/item?id=50589618"
+    },
+    {
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "score": 523,
+      "comments": 171,
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "hn": "https://news.ycombinator.com/item?id=50532613"
+    },
+    {
+      "title": "PostgreSQL Extensions in Go",
+      "score": 58,
+      "comments": 1,
+      "url": "https://jespino.github.io/gopgext/",
+      "hn": "https://news.ycombinator.com/item?id=50591260"
+    },
+    {
+      "title": "My monitor was cutting my download speed by 75%",
+      "score": 320,
+      "comments": 162,
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "hn": "https://news.ycombinator.com/item?id=50587875"
+    },
+    {
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "score": 2328,
+      "comments": 1118,
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "hn": "https://news.ycombinator.com/item?id=50579568"
+    },
+    {
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "score": 36,
+      "comments": 2,
+      "url": "https://math.mit.edu/~drew/grh/",
+      "hn": "https://news.ycombinator.com/item?id=50590441"
+    },
+    {
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "score": 2828,
+      "comments": 2001,
+      "url": "https://alpo.ge/remark.pdf",
+      "hn": "https://news.ycombinator.com/item?id=50574968"
+    },
+    {
+      "title": "Inkling 2 Mini",
+      "score": 1270,
+      "comments": 257,
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "hn": "https://news.ycombinator.com/item?id=50581260"
+    }
+  ],
+  "github": [
+    {
+      "name": "erkamyaman/rust-anything",
+      "stars": 7277,
+      "lang": "Rust",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's record",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 5746,
+      "lang": "C++",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Window",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "name": "gylive/google-ultra",
+      "stars": 2587,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
+      "name": "Hut-hzf/ung220z-tool",
+      "stars": 2210,
+      "lang": "Python",
+      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "url": "https://github.com/Hut-hzf/ung220z-tool"
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 2142,
+      "lang": "-",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. ",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 1699,
+      "lang": "Python",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "ItsNotRexed/Leonida",
+      "stars": 1533,
+      "lang": "Python",
+      "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "url": "https://github.com/ItsNotRexed/Leonida"
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "stars": 1455,
+      "lang": "Python",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefi",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "name": "joshpuckett/allo",
+      "stars": 1310,
+      "lang": "Python",
+      "desc": "Allo is your friendly neighborhood typeface, free and open source",
+      "url": "https://github.com/joshpuckett/allo"
+    },
+    {
+      "name": "chuanqisun/spaceship",
+      "stars": 1014,
+      "lang": "HTML",
+      "desc": "Steer ideas like a space pilot!",
+      "url": "https://github.com/chuanqisun/spaceship"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-20",
+    "rates": {
+      "CNY": 6.6777,
+      "EUR": 0.90992,
+      "GBP": 0.76192,
+      "JPY": 158.64
+    }
+  },
+  "crypto": {
+    "btc": 60217,
+    "btc_24h": 3.666699289248239,
+    "eth": 1683.23,
+    "eth_24h": 5.217510401753831
+  }
+}

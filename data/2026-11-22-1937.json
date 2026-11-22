@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-22T19:37:20+00:00",
+  "local": "2026-11-23T03:37:20+08:00",
+  "hn": [
+    {
+      "title": "\"A government that 'gets it'\": Canada recommits to federal funding for news",
+      "score": 53,
+      "comments": 13,
+      "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+      "hn": "https://news.ycombinator.com/item?id=50602847"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "score": 231,
+      "comments": 162,
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "hn": "https://news.ycombinator.com/item?id=50601525"
+    },
+    {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "score": 1039,
+      "comments": 620,
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "hn": "https://news.ycombinator.com/item?id=50596133"
+    },
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "score": 180,
+      "comments": 46,
+      "url": "https://github.com/gulivan/worker755",
+      "hn": "https://news.ycombinator.com/item?id=50599762"
+    },
+    {
+      "title": "Open Social Web Alliance",
+      "score": 155,
+      "comments": 157,
+      "url": "https://osw-alliance.net/en/",
+      "hn": "https://news.ycombinator.com/item?id=50600511"
+    },
+    {
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "score": 65,
+      "comments": 17,
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "hn": "https://news.ycombinator.com/item?id=50600622"
+    },
+    {
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "score": 1293,
+      "comments": 276,
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "hn": "https://news.ycombinator.com/item?id=50582069"
+    },
+    {
+      "title": "A Better Vocabulary for Testing",
+      "score": 67,
+      "comments": 17,
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "hn": "https://news.ycombinator.com/item?id=50594182"
+    },
+    {
+      "title": "Inside PyPy: First Contact with RPython",
+      "score": 26,
+      "comments": 4,
+      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
+      "hn": "https://news.ycombinator.com/item?id=50562207"
+    },
+    {
+      "title": "Dirac's Theorem at a Dinner Party",
+      "score": 3,
+      "comments": 0,
+      "url": "https://prideout.net/blog/dirac-dinner-party/",
+      "hn": "https://news.ycombinator.com/item?id=50602660"
+    }
+  ],
+  "github": [
+    {
+      "name": "ItsNotRexed/Leonida",
+      "stars": 13305,
+      "lang": "Python",
+      "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "url": "https://github.com/ItsNotRexed/Leonida"
+    },
+    {
+      "name": "erkamyaman/rust-anything",
+      "stars": 7899,
+      "lang": "Rust",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's record",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 2744,
+      "lang": "-",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. ",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 2064,
+      "lang": "Python",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "stars": 1925,
+      "lang": "Python",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefi",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 1649,
+      "lang": "Rust",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, p",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "stars": 1255,
+      "lang": "Python",
+      "desc": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, an",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 1222,
+      "lang": "Rust",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "name": "Lemxy/WinRust",
+      "stars": 1169,
+      "lang": "Rust",
+      "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk ",
+      "url": "https://github.com/Lemxy/WinRust"
+    },
+    {
+      "name": "chuanqisun/spaceship",
+      "stars": 1044,
+      "lang": "HTML",
+      "desc": "Steer ideas like a space pilot!",
+      "url": "https://github.com/chuanqisun/spaceship"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-20",
+    "rates": {
+      "CNY": 6.6777,
+      "EUR": 0.90992,
+      "GBP": 0.76192,
+      "JPY": 158.64
+    }
+  },
+  "crypto": {
+    "btc": 60653,
+    "btc_24h": 0.6848727421072632,
+    "eth": 1712.11,
+    "eth_24h": 1.6939891786533743
+  }
+}

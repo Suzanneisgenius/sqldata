@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-22T06:57:14+00:00",
+  "local": "2026-11-22T14:57:14+08:00",
+  "hn": [
+    {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "score": 267,
+      "comments": 126,
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "hn": "https://news.ycombinator.com/item?id=50596133"
+    },
+    {
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "score": 874,
+      "comments": 203,
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "hn": "https://news.ycombinator.com/item?id=50582069"
+    },
+    {
+      "title": "Lean verification of the Riemann Hypothesis",
+      "score": 946,
+      "comments": 809,
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "hn": "https://news.ycombinator.com/item?id=50589618"
+    },
+    {
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "score": 429,
+      "comments": 109,
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "hn": "https://news.ycombinator.com/item?id=50591853"
+    },
+    {
+      "title": "Sandwich Simulator",
+      "score": 143,
+      "comments": 55,
+      "url": "https://stulle.app/",
+      "hn": "https://news.ycombinator.com/item?id=50594911"
+    },
+    {
+      "title": "Data Processing Incidents on Inference Providers",
+      "score": 97,
+      "comments": 34,
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "hn": "https://news.ycombinator.com/item?id=50595554"
+    },
+    {
+      "title": "Detonating a pile of lead azide",
+      "score": 585,
+      "comments": 378,
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "hn": "https://news.ycombinator.com/item?id=50588982"
+    },
+    {
+      "title": "Getting the mind to steer the body to steer you",
+      "score": 231,
+      "comments": 75,
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "hn": "https://news.ycombinator.com/item?id=50583028"
+    },
+    {
+      "title": "Show HN: The Riemann Proof Handbook",
+      "score": 6,
+      "comments": 0,
+      "url": "https://github.com/tamnd/riemann-handbook",
+      "hn": "https://news.ycombinator.com/item?id=50596664"
+    },
+    {
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "score": 101,
+      "comments": 10,
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "hn": "https://news.ycombinator.com/item?id=50594132"
+    }
+  ],
+  "github": [
+    {
+      "name": "ItsNotRexed/Leonida",
+      "stars": 7620,
+      "lang": "Python",
+      "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "url": "https://github.com/ItsNotRexed/Leonida"
+    },
+    {
+      "name": "erkamyaman/rust-anything",
+      "stars": 7562,
+      "lang": "Rust",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's record",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 5894,
+      "lang": "C++",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Window",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 2688,
+      "lang": "-",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. ",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    },
+    {
+      "name": "gylive/google-ultra",
+      "stars": 2625,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 1817,
+      "lang": "Python",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "stars": 1768,
+      "lang": "Python",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefi",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "name": "hatsunemiku-ai/google-one-tools",
+      "stars": 1143,
+      "lang": "Python",
+      "desc": "",
+      "url": "https://github.com/hatsunemiku-ai/google-one-tools"
+    },
+    {
+      "name": "chuanqisun/spaceship",
+      "stars": 1028,
+      "lang": "HTML",
+      "desc": "Steer ideas like a space pilot!",
+      "url": "https://github.com/chuanqisun/spaceship"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "stars": 1023,
+      "lang": "Python",
+      "desc": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, an",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-20",
+    "rates": {
+      "CNY": 6.6777,
+      "EUR": 0.90992,
+      "GBP": 0.76192,
+      "JPY": 158.64
+    }
+  },
+  "crypto": {
+    "btc": 59056,
+    "btc_24h": 2.43600815518661,
+    "eth": 1660.13,
+    "eth_24h": 1.4711483438504072
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-23T23:51:56+00:00",
+  "local": "2026-11-24T07:51:56+08:00",
+  "hn": [
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "score": 1930,
+      "comments": 3022,
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "hn": "https://news.ycombinator.com/item?id=50611576"
+    },
+    {
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "score": 84,
+      "comments": 44,
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "hn": "https://news.ycombinator.com/item?id=50620349"
+    },
+    {
+      "title": "Ladybird is now in alpha",
+      "score": 1297,
+      "comments": 311,
+      "url": "https://ladybird.org/posts/alpha/",
+      "hn": "https://news.ycombinator.com/item?id=50614249"
+    },
+    {
+      "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
+      "score": 51,
+      "comments": 35,
+      "url": "https://twitter.com/__alpoge__/status/2124987173439209561",
+      "hn": "https://news.ycombinator.com/item?id=50620250"
+    },
+    {
+      "title": "VP ≠ VNP over Every Field",
+      "score": 151,
+      "comments": 106,
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "hn": "https://news.ycombinator.com/item?id=50620102"
+    },
+    {
+      "title": "GPUI is getting its own repository",
+      "score": 72,
+      "comments": 13,
+      "url": "https://github.com/zed-industries/gpui",
+      "hn": "https://news.ycombinator.com/item?id=50619103"
+    },
+    {
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "score": 777,
+      "comments": 158,
+      "url": "https://arm.jonpalmisc.com/",
+      "hn": "https://news.ycombinator.com/item?id=50617499"
+    },
+    {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "score": 1024,
+      "comments": 333,
+      "url": "https://z.ai/blog/glm-5.4",
+      "hn": "https://news.ycombinator.com/item?id=50609685"
+    },
+    {
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "score": 61,
+      "comments": 17,
+      "url": "https://www.bored.com/",
+      "hn": "https://news.ycombinator.com/item?id=50619207"
+    },
+    {
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "score": 980,
+      "comments": 568,
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "hn": "https://news.ycombinator.com/item?id=50615308"
+    }
+  ],
+  "github": [
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 3107,
+      "lang": "Rust",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, p",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 2304,
+      "lang": "Python",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "stars": 1995,
+      "lang": "Objective-C++",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 1655,
+      "lang": "Rust",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "name": "ivall/xcl",
+      "stars": 1519,
+      "lang": "Rust",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplement",
+      "url": "https://github.com/ivall/xcl"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "stars": 1496,
+      "lang": "Python",
+      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-bui",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "os6/nospeaker",
+      "stars": 1409,
+      "lang": "Swift",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "name": "Lemxy/WinRust",
+      "stars": 1367,
+      "lang": "Rust",
+      "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk ",
+      "url": "https://github.com/Lemxy/WinRust"
+    },
+    {
+      "name": "Marvisak/VIctory",
+      "stars": 1193,
+      "lang": "Rust",
+      "desc": "An attempt at running GTA VI on PC",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "leanprover-community/riemann-hypothesis",
+      "stars": 862,
+      "lang": "Lean",
+      "desc": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge,",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-23",
+    "rates": {
+      "CNY": 6.6647,
+      "EUR": 0.91416,
+      "GBP": 0.76491,
+      "JPY": 159.07
+    }
+  },
+  "crypto": {
+    "btc": 61146,
+    "btc_24h": -0.06025294681266235,
+    "eth": 1706.87,
+    "eth_24h": -0.7553171458131159
+  }
+}

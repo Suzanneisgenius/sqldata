@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-23T07:46:54+00:00",
+  "local": "2026-11-23T15:46:54+08:00",
+  "hn": [
+    {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "score": 430,
+      "comments": 61,
+      "url": "https://spelunkr.tv",
+      "hn": "https://news.ycombinator.com/item?id=50606192"
+    },
+    {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "score": 194,
+      "comments": 82,
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "hn": "https://news.ycombinator.com/item?id=50607261"
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "score": 440,
+      "comments": 174,
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "hn": "https://news.ycombinator.com/item?id=50603845"
+    },
+    {
+      "title": "A Partial Evaluator for C",
+      "score": 35,
+      "comments": 1,
+      "url": "https://phoenix.labri.fr/software/tempo/",
+      "hn": "https://news.ycombinator.com/item?id=50607627"
+    },
+    {
+      "title": "Masullo on the Riemann Hypothesis",
+      "score": 187,
+      "comments": 104,
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "hn": "https://news.ycombinator.com/item?id=50598441"
+    },
+    {
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "score": 457,
+      "comments": 232,
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "hn": "https://news.ycombinator.com/item?id=50602843"
+    },
+    {
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "score": 206,
+      "comments": 51,
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "hn": "https://news.ycombinator.com/item?id=50547698"
+    },
+    {
+      "title": "CollectWise (YC F24) Is Hiring",
+      "score": 1,
+      "comments": 0,
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+      "hn": "https://news.ycombinator.com/item?id=50608390"
+    },
+    {
+      "title": "Yes, 17M lines of Lean is a lot",
+      "score": 22,
+      "comments": 24,
+      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "hn": "https://news.ycombinator.com/item?id=50607668"
+    },
+    {
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "score": 172,
+      "comments": 83,
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "hn": "https://news.ycombinator.com/item?id=50604988"
+    }
+  ],
+  "github": [
+    {
+      "name": "ItsNotRexed/Leonida",
+      "stars": 17291,
+      "lang": "Python",
+      "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "url": "https://github.com/ItsNotRexed/Leonida"
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 2758,
+      "lang": "-",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. ",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 2347,
+      "lang": "Rust",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, p",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 2177,
+      "lang": "Python",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 1410,
+      "lang": "Rust",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "stars": 1363,
+      "lang": "Python",
+      "desc": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, an",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "Lemxy/WinRust",
+      "stars": 1277,
+      "lang": "Rust",
+      "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk ",
+      "url": "https://github.com/Lemxy/WinRust"
+    },
+    {
+      "name": "leanprover-community/riemann-hypothesis",
+      "stars": 687,
+      "lang": "Lean",
+      "desc": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge,",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis"
+    },
+    {
+      "name": "MSNightmare/FastUnlock",
+      "stars": 686,
+      "lang": "-",
+      "desc": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+      "url": "https://github.com/MSNightmare/FastUnlock"
+    },
+    {
+      "name": "os6/nospeaker",
+      "stars": 666,
+      "lang": "Swift",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-20",
+    "rates": {
+      "CNY": 6.6777,
+      "EUR": 0.90992,
+      "GBP": 0.76192,
+      "JPY": 158.64
+    }
+  },
+  "crypto": {
+    "btc": 61434,
+    "btc_24h": 4.202507582447549,
+    "eth": 1720.91,
+    "eth_24h": 3.548819225671217
+  }
+}

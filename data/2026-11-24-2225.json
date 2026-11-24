@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-24T22:25:31+00:00",
+  "local": "2026-11-25T06:25:31+08:00",
+  "hn": [
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "score": 195,
+      "comments": 60,
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "hn": "https://news.ycombinator.com/item?id=50633922"
+    },
+    {
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "score": 38,
+      "comments": 19,
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "hn": "https://news.ycombinator.com/item?id=50634426"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "score": 40,
+      "comments": 3,
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "hn": "https://news.ycombinator.com/item?id=50634658"
+    },
+    {
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "score": 236,
+      "comments": 96,
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "hn": "https://news.ycombinator.com/item?id=50630594"
+    },
+    {
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "score": 16,
+      "comments": 0,
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "hn": "https://news.ycombinator.com/item?id=50635271"
+    },
+    {
+      "title": "Gödel Enigma",
+      "score": 27,
+      "comments": 4,
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "hn": "https://news.ycombinator.com/item?id=50625265"
+    },
+    {
+      "title": "The Spray Bottle",
+      "score": 291,
+      "comments": 81,
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "hn": "https://news.ycombinator.com/item?id=50598555"
+    },
+    {
+      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "score": 40,
+      "comments": 0,
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "hn": "https://news.ycombinator.com/item?id=50633424"
+    },
+    {
+      "title": "Calculate how many mesh radio nodes your city needs",
+      "score": 45,
+      "comments": 6,
+      "url": "https://meshcoveragecalculator.lalala.ing/",
+      "hn": "https://news.ycombinator.com/item?id=50609483"
+    },
+    {
+      "title": "2035 came early",
+      "score": 921,
+      "comments": 350,
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "hn": "https://news.ycombinator.com/item?id=50624497"
+    }
+  ],
+  "github": [
+    {
+      "name": "Marvisak/VIctory",
+      "stars": 11127,
+      "lang": "Rust",
+      "desc": "An attempt at running GTA VI on PC",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "xcl-dev/xcl",
+      "stars": 7752,
+      "lang": "Rust",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplement",
+      "url": "https://github.com/xcl-dev/xcl"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 3577,
+      "lang": "Rust",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, p",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "stars": 3302,
+      "lang": "Objective-C++",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "stars": 2701,
+      "lang": "JavaScript",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts",
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 2478,
+      "lang": "Python",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "stars": 1893,
+      "lang": "Python",
+      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-bui",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 1815,
+      "lang": "Rust",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "name": "ubiquitarianism/leonida",
+      "stars": 1813,
+      "lang": "Python",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
+      "url": "https://github.com/ubiquitarianism/leonida"
+    },
+    {
+      "name": "os6/nospeaker",
+      "stars": 1745,
+      "lang": "Swift",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-24",
+    "rates": {
+      "CNY": 6.6645,
+      "EUR": 0.91216,
+      "GBP": 0.76348,
+      "JPY": 159.07
+    }
+  },
+  "crypto": {
+    "btc": 59938,
+    "btc_24h": -2.2397132506933035,
+    "eth": 1682.11,
+    "eth_24h": -2.1823130157427477
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-24T09:59:21+00:00",
+  "local": "2026-11-24T17:59:21+08:00",
+  "hn": [
+    {
+      "title": "2035 Came Early",
+      "score": 193,
+      "comments": 36,
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "hn": "https://news.ycombinator.com/item?id=50624497"
+    },
+    {
+      "title": "Ladybird is now in alpha",
+      "score": 1944,
+      "comments": 451,
+      "url": "https://ladybird.org/posts/alpha/",
+      "hn": "https://news.ycombinator.com/item?id=50614249"
+    },
+    {
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "score": 468,
+      "comments": 245,
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "hn": "https://news.ycombinator.com/item?id=50620349"
+    },
+    {
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "score": 78,
+      "comments": 29,
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "hn": "https://news.ycombinator.com/item?id=50624061"
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "score": 2558,
+      "comments": 3479,
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "hn": "https://news.ycombinator.com/item?id=50611576"
+    },
+    {
+      "title": "Drone Maps of Salvage Yards",
+      "score": 80,
+      "comments": 31,
+      "url": "https://salvageyarddrone.wordpress.com/",
+      "hn": "https://news.ycombinator.com/item?id=50623515"
+    },
+    {
+      "title": "Modernizing iperf/iperf3 and introducing fireperf",
+      "score": 98,
+      "comments": 8,
+      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+      "hn": "https://news.ycombinator.com/item?id=50604710"
+    },
+    {
+      "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+      "score": 33,
+      "comments": 0,
+      "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
+      "hn": "https://news.ycombinator.com/item?id=50592307"
+    },
+    {
+      "title": "Lowering Perplexity Without Scaling",
+      "score": 47,
+      "comments": 13,
+      "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
+      "hn": "https://news.ycombinator.com/item?id=50607512"
+    },
+    {
+      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "score": 354,
+      "comments": 104,
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "hn": "https://news.ycombinator.com/item?id=50622774"
+    }
+  ],
+  "github": [
+    {
+      "name": "Marvisak/VIctory",
+      "stars": 7143,
+      "lang": "Rust",
+      "desc": "An attempt at running GTA VI on PC",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "ivall/xcl",
+      "stars": 5767,
+      "lang": "Rust",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplement",
+      "url": "https://github.com/ivall/xcl"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 3382,
+      "lang": "Rust",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, p",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "stars": 2717,
+      "lang": "Objective-C++",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 2364,
+      "lang": "Python",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 1734,
+      "lang": "Rust",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "stars": 1734,
+      "lang": "Python",
+      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-bui",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "os6/nospeaker",
+      "stars": 1599,
+      "lang": "Swift",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "stars": 1443,
+      "lang": "JavaScript",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts",
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "name": "leanprover-community/riemann-hypothesis",
+      "stars": 944,
+      "lang": "Lean",
+      "desc": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge,",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-23",
+    "rates": {
+      "CNY": 6.6647,
+      "EUR": 0.91416,
+      "GBP": 0.76491,
+      "JPY": 159.07
+    }
+  },
+  "crypto": {
+    "btc": 59887,
+    "btc_24h": -2.3838291833467005,
+    "eth": 1681.19,
+    "eth_24h": -2.2934143523427495
+  }
+}

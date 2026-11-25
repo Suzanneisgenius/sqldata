@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-25T08:43:54+00:00",
+  "local": "2026-11-25T16:43:54+08:00",
+  "hn": [
+    {
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "score": 565,
+      "comments": 275,
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "hn": "https://news.ycombinator.com/item?id=50637220"
+    },
+    {
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "score": 310,
+      "comments": 34,
+      "url": "https://buttons.joshwcomeau.com/",
+      "hn": "https://news.ycombinator.com/item?id=50638032"
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "score": 201,
+      "comments": 76,
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "hn": "https://news.ycombinator.com/item?id=50637686"
+    },
+    {
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "score": 90,
+      "comments": 20,
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "hn": "https://news.ycombinator.com/item?id=50638503"
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "score": 437,
+      "comments": 137,
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "hn": "https://news.ycombinator.com/item?id=50633922"
+    },
+    {
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "score": 146,
+      "comments": 53,
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "hn": "https://news.ycombinator.com/item?id=50637890"
+    },
+    {
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "score": 223,
+      "comments": 39,
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "hn": "https://news.ycombinator.com/item?id=50637056"
+    },
+    {
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "score": 65,
+      "comments": 11,
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "hn": "https://news.ycombinator.com/item?id=50638478"
+    },
+    {
+      "title": "The algebra of dependent types (2025)",
+      "score": 17,
+      "comments": 1,
+      "url": "https://dotat.at/@/2025-05-28-types.html",
+      "hn": "https://news.ycombinator.com/item?id=50623866"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "score": 252,
+      "comments": 76,
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "hn": "https://news.ycombinator.com/item?id=50634658"
+    }
+  ],
+  "github": [
+    {
+      "name": "Marvisak/VIctory",
+      "stars": 11809,
+      "lang": "Rust",
+      "desc": "An attempt at running GTA VI on PC",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "xcl-dev/xcl",
+      "stars": 8037,
+      "lang": "Rust",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplement",
+      "url": "https://github.com/xcl-dev/xcl"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 3749,
+      "lang": "Rust",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, p",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "stars": 3627,
+      "lang": "C",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "stars": 3163,
+      "lang": "JavaScript",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts",
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 2542,
+      "lang": "Python",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "stars": 2460,
+      "lang": "Rust",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Wind",
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "name": "ubiquitarianism/leonida",
+      "stars": 2052,
+      "lang": "Python",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "url": "https://github.com/ubiquitarianism/leonida"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "stars": 1931,
+      "lang": "Python",
+      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-bui",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 1831,
+      "lang": "Rust",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-24",
+    "rates": {
+      "CNY": 6.6645,
+      "EUR": 0.91216,
+      "GBP": 0.76348,
+      "JPY": 159.07
+    }
+  },
+  "crypto": {
+    "btc": 59189,
+    "btc_24h": -1.5726464750087144,
+    "eth": 1648.13,
+    "eth_24h": -2.663252010001554
+  }
+}

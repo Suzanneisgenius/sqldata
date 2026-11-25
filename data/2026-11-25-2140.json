@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-25T21:40:10+00:00",
+  "local": "2026-11-26T05:40:10+08:00",
+  "hn": [
+    {
+      "title": "1Password Security Incident",
+      "score": 808,
+      "comments": 334,
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "hn": "https://news.ycombinator.com/item?id=50644817"
+    },
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "score": 520,
+      "comments": 375,
+      "url": "https://scottaaronson.blog/?p=10379",
+      "hn": "https://news.ycombinator.com/item?id=50646108"
+    },
+    {
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "score": 385,
+      "comments": 93,
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "hn": "https://news.ycombinator.com/item?id=50643129"
+    },
+    {
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "score": 57,
+      "comments": 9,
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "hn": "https://news.ycombinator.com/item?id=50601280"
+    },
+    {
+      "title": "SSH is a GUI framework",
+      "score": 71,
+      "comments": 36,
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "hn": "https://news.ycombinator.com/item?id=50589784"
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "score": 77,
+      "comments": 13,
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "hn": "https://news.ycombinator.com/item?id=50644980"
+    },
+    {
+      "title": "Britain's ghost stations",
+      "score": 58,
+      "comments": 12,
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "hn": "https://news.ycombinator.com/item?id=50645074"
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "score": 145,
+      "comments": 52,
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "hn": "https://news.ycombinator.com/item?id=50642939"
+    },
+    {
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "score": 294,
+      "comments": 165,
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "hn": "https://news.ycombinator.com/item?id=50641171"
+    },
+    {
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "score": 396,
+      "comments": 310,
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "hn": "https://news.ycombinator.com/item?id=50642086"
+    }
+  ],
+  "github": [
+    {
+      "name": "Marvisak/VIctory",
+      "stars": 12527,
+      "lang": "Rust",
+      "desc": "An attempt at running GTA VI on PC",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "xcl-dev/xcl",
+      "stars": 8285,
+      "lang": "Rust",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplement",
+      "url": "https://github.com/xcl-dev/xcl"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 3927,
+      "lang": "Rust",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, p",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "stars": 3925,
+      "lang": "JavaScript",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts",
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "stars": 3897,
+      "lang": "C",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "stars": 3001,
+      "lang": "Rust",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Wind",
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 2620,
+      "lang": "Python",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "ubiquitarianism/leonida",
+      "stars": 2303,
+      "lang": "Python",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "url": "https://github.com/ubiquitarianism/leonida"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "stars": 1950,
+      "lang": "Python",
+      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-bui",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "os6/nospeaker",
+      "stars": 1875,
+      "lang": "Swift",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-25",
+    "rates": {
+      "CNY": 6.6757,
+      "EUR": 0.91449,
+      "GBP": 0.76571,
+      "JPY": 159.32
+    }
+  },
+  "crypto": {
+    "btc": 60286,
+    "btc_24h": 0.7395171747650955,
+    "eth": 1689.51,
+    "eth_24h": 0.6597611280962367
+  }
+}

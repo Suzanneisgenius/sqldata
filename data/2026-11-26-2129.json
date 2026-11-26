@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-26T21:29:29+00:00",
+  "local": "2026-11-27T05:29:29+08:00",
+  "hn": [
+    {
+      "title": "AMD Specific Patches for Llama.cpp",
+      "score": 200,
+      "comments": 52,
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "hn": "https://news.ycombinator.com/item?id=50657265"
+    },
+    {
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "score": 143,
+      "comments": 59,
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "hn": "https://news.ycombinator.com/item?id=50657645"
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "score": 137,
+      "comments": 197,
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "hn": "https://news.ycombinator.com/item?id=50657530"
+    },
+    {
+      "title": "Show HN: Fuck_data_brokers.py",
+      "score": 123,
+      "comments": 18,
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "hn": "https://news.ycombinator.com/item?id=50658191"
+    },
+    {
+      "title": "The greatest architect you've never heard of is in Pakistan",
+      "score": 4,
+      "comments": 0,
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "hn": "https://news.ycombinator.com/item?id=50659841"
+    },
+    {
+      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+      "score": 21,
+      "comments": 5,
+      "url": "https://github.com/eisenzopf/rvoip",
+      "hn": "https://news.ycombinator.com/item?id=50658632"
+    },
+    {
+      "title": "Intel One Mono font (2023)",
+      "score": 415,
+      "comments": 229,
+      "url": "https://github.com/intel/intel-one-mono",
+      "hn": "https://news.ycombinator.com/item?id=50653667"
+    },
+    {
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "score": 91,
+      "comments": 23,
+      "url": "https://michidk.github.io/sidebyside/",
+      "hn": "https://news.ycombinator.com/item?id=50656036"
+    },
+    {
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "score": 24,
+      "comments": 15,
+      "url": "https://olumino.app",
+      "hn": "https://news.ycombinator.com/item?id=50651099"
+    },
+    {
+      "title": "George Whitesides, 1939-2026",
+      "score": 24,
+      "comments": 4,
+      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+      "hn": "https://news.ycombinator.com/item?id=50657936"
+    }
+  ],
+  "github": [
+    {
+      "name": "Marvisak/VIctory",
+      "stars": 13266,
+      "lang": "Rust",
+      "desc": "An attempt at running GTA VI on PC",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "xcl-dev/xcl",
+      "stars": 8580,
+      "lang": "Rust",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplement",
+      "url": "https://github.com/xcl-dev/xcl"
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "stars": 5587,
+      "lang": "JavaScript",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts",
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "stars": 4223,
+      "lang": "C",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 4205,
+      "lang": "Rust",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, p",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "stars": 3263,
+      "lang": "Rust",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Wind",
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "name": "ubiquitarianism/leonida",
+      "stars": 2517,
+      "lang": "Python",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "url": "https://github.com/ubiquitarianism/leonida"
+    },
+    {
+      "name": "Belobug/VIctory-Belobug-AMD",
+      "stars": 2479,
+      "lang": "Rust",
+      "desc": "",
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "stars": 1964,
+      "lang": "Python",
+      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-bui",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "os6/nospeaker",
+      "stars": 1948,
+      "lang": "Swift",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-26",
+    "rates": {
+      "CNY": 6.6602,
+      "EUR": 0.91116,
+      "GBP": 0.76314,
+      "JPY": 159.26
+    }
+  },
+  "crypto": {
+    "btc": 60820,
+    "btc_24h": 0.8116534654847731,
+    "eth": 1703.2,
+    "eth_24h": 0.7723284783478271
+  }
+}

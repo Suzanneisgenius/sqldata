@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-26T08:28:30+00:00",
+  "local": "2026-11-26T16:28:30+08:00",
+  "hn": [
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "score": 1429,
+      "comments": 1249,
+      "url": "https://scottaaronson.blog/?p=10379",
+      "hn": "https://news.ycombinator.com/item?id=50646108"
+    },
+    {
+      "title": "1Password Security Incident",
+      "score": 1382,
+      "comments": 582,
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "hn": "https://news.ycombinator.com/item?id=50644817"
+    },
+    {
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "score": 65,
+      "comments": 9,
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "hn": "https://news.ycombinator.com/item?id=50651719"
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "score": 433,
+      "comments": 222,
+      "url": "https://github.com/lsernau/grh-lean",
+      "hn": "https://news.ycombinator.com/item?id=50648050"
+    },
+    {
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "score": 101,
+      "comments": 15,
+      "url": "https://progrium.github.io/minipg/",
+      "hn": "https://news.ycombinator.com/item?id=50650892"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "score": 349,
+      "comments": 297,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "hn": "https://news.ycombinator.com/item?id=50647673"
+    },
+    {
+      "title": "Collection of preserved UI style guides",
+      "score": 147,
+      "comments": 16,
+      "url": "https://aresluna.org/ui-style-guides/",
+      "hn": "https://news.ycombinator.com/item?id=50649834"
+    },
+    {
+      "title": "Tell HN: Lots of Ask HNs again",
+      "score": 245,
+      "comments": 90,
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "hn": "https://news.ycombinator.com/item?id=50649864"
+    },
+    {
+      "title": "Moat: Your OpenRouter Replacement",
+      "score": 16,
+      "comments": 12,
+      "url": "https://commandcode.ai/moat",
+      "hn": "https://news.ycombinator.com/item?id=50652184"
+    },
+    {
+      "title": "Show HN: Synth Patch Hero",
+      "score": 25,
+      "comments": 7,
+      "url": "https://swarkentin.github.io/synth-patch-hero/",
+      "hn": "https://news.ycombinator.com/item?id=50623232"
+    }
+  ],
+  "github": [
+    {
+      "name": "Marvisak/VIctory",
+      "stars": 12827,
+      "lang": "Rust",
+      "desc": "An attempt at running GTA VI on PC",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "xcl-dev/xcl",
+      "stars": 8392,
+      "lang": "Rust",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplement",
+      "url": "https://github.com/xcl-dev/xcl"
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "stars": 4627,
+      "lang": "JavaScript",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts",
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 4066,
+      "lang": "Rust",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, p",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "stars": 4056,
+      "lang": "C",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "stars": 3163,
+      "lang": "Rust",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Wind",
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "name": "ubiquitarianism/leonida",
+      "stars": 2394,
+      "lang": "Python",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "url": "https://github.com/ubiquitarianism/leonida"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "stars": 1959,
+      "lang": "Python",
+      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-bui",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "os6/nospeaker",
+      "stars": 1912,
+      "lang": "Swift",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 1849,
+      "lang": "Rust",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-25",
+    "rates": {
+      "CNY": 6.6757,
+      "EUR": 0.91449,
+      "GBP": 0.76571,
+      "JPY": 159.32
+    }
+  },
+  "crypto": {
+    "btc": 60621,
+    "btc_24h": 2.9415850447646212,
+    "eth": 1687.98,
+    "eth_24h": 2.8427837091976658
+  }
+}

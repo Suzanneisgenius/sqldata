@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-27T08:42:37+00:00",
+  "local": "2026-11-27T16:42:37+08:00",
+  "hn": [
+    {
+      "title": "The group chat where your AI talks behind your back",
+      "score": 137,
+      "comments": 47,
+      "url": "https://construct22.com/",
+      "hn": "https://news.ycombinator.com/item?id=50663595"
+    },
+    {
+      "title": "AI made self-hosting fun again",
+      "score": 626,
+      "comments": 323,
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "hn": "https://news.ycombinator.com/item?id=50660180"
+    },
+    {
+      "title": "The need for a formally verifiable mainstream programming language",
+      "score": 131,
+      "comments": 101,
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "hn": "https://news.ycombinator.com/item?id=50663089"
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "score": 378,
+      "comments": 448,
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "hn": "https://news.ycombinator.com/item?id=50657530"
+    },
+    {
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "score": 355,
+      "comments": 87,
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "hn": "https://news.ycombinator.com/item?id=50659841"
+    },
+    {
+      "title": "Hard Drive pricing has gotten bad",
+      "score": 318,
+      "comments": 216,
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "hn": "https://news.ycombinator.com/item?id=50661646"
+    },
+    {
+      "title": "AMD-specific fork of llama.cpp",
+      "score": 342,
+      "comments": 83,
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "hn": "https://news.ycombinator.com/item?id=50657265"
+    },
+    {
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "score": 257,
+      "comments": 132,
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "hn": "https://news.ycombinator.com/item?id=50657645"
+    },
+    {
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "score": 312,
+      "comments": 132,
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "hn": "https://news.ycombinator.com/item?id=50659640"
+    },
+    {
+      "title": "Intel One Mono font (2023)",
+      "score": 515,
+      "comments": 249,
+      "url": "https://github.com/intel/intel-one-mono",
+      "hn": "https://news.ycombinator.com/item?id=50653667"
+    }
+  ],
+  "github": [
+    {
+      "name": "Marvisak/VIctory",
+      "stars": 13543,
+      "lang": "Rust",
+      "desc": "An attempt at running GTA VI on PC",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "stars": 6136,
+      "lang": "JavaScript",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts",
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 4335,
+      "lang": "Rust",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, p",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "Belobug/VIctory-Belobug-AMD",
+      "stars": 3592,
+      "lang": "Rust",
+      "desc": "",
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD"
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "stars": 3308,
+      "lang": "Rust",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Wind",
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "name": "ubiquitarianism/leonida",
+      "stars": 2567,
+      "lang": "Python",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "url": "https://github.com/ubiquitarianism/leonida"
+    },
+    {
+      "name": "os6/nospeaker",
+      "stars": 1967,
+      "lang": "Swift",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "name": "avatarmanz/VIctory-7900XTX",
+      "stars": 1884,
+      "lang": "Rust",
+      "desc": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tr",
+      "url": "https://github.com/avatarmanz/VIctory-7900XTX"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 1853,
+      "lang": "Rust",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "name": "alesha-pro/llm.asm",
+      "stars": 1769,
+      "lang": "Assembly",
+      "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT tr",
+      "url": "https://github.com/alesha-pro/llm.asm"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-26",
+    "rates": {
+      "CNY": 6.6602,
+      "EUR": 0.91116,
+      "GBP": 0.76314,
+      "JPY": 159.26
+    }
+  },
+  "crypto": {
+    "btc": 61668,
+    "btc_24h": 1.679241474891709,
+    "eth": 1727.53,
+    "eth_24h": 2.272074134327807
+  }
+}

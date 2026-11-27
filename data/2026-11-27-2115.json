@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-27T21:15:24+00:00",
+  "local": "2026-11-28T05:15:24+08:00",
+  "hn": [
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "score": 294,
+      "comments": 161,
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "hn": "https://news.ycombinator.com/item?id=50668145"
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "score": 131,
+      "comments": 46,
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "hn": "https://news.ycombinator.com/item?id=50669765"
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "score": 71,
+      "comments": 91,
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "hn": "https://news.ycombinator.com/item?id=50643158"
+    },
+    {
+      "title": "Citroën Hydraulic System",
+      "score": 48,
+      "comments": 19,
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "hn": "https://news.ycombinator.com/item?id=50662313"
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "score": 293,
+      "comments": 88,
+      "url": "https://bouncemarket.minhanhday.com/",
+      "hn": "https://news.ycombinator.com/item?id=50667726"
+    },
+    {
+      "title": "The AT&T Unix PC (3B1) VM",
+      "score": 19,
+      "comments": 3,
+      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+      "hn": "https://news.ycombinator.com/item?id=50670841"
+    },
+    {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "score": 153,
+      "comments": 101,
+      "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+      "hn": "https://news.ycombinator.com/item?id=50670757"
+    },
+    {
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "score": 43,
+      "comments": 8,
+      "url": "https://dragdropmath.com/",
+      "hn": "https://news.ycombinator.com/item?id=50669673"
+    },
+    {
+      "title": "False computer-checked proofs",
+      "score": 136,
+      "comments": 60,
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "hn": "https://news.ycombinator.com/item?id=50667989"
+    },
+    {
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "score": 156,
+      "comments": 51,
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "hn": "https://news.ycombinator.com/item?id=50657392"
+    }
+  ],
+  "github": [
+    {
+      "name": "Marvisak/VIctory",
+      "stars": 13767,
+      "lang": "Rust",
+      "desc": "An attempt at running GTA VI on PC",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "stars": 6630,
+      "lang": "JavaScript",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts",
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 4435,
+      "lang": "Rust",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot funct",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "stars": 3353,
+      "lang": "Rust",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Wind",
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "name": "ProjectLeonida/mandy",
+      "stars": 2634,
+      "lang": "Python",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "url": "https://github.com/ProjectLeonida/mandy"
+    },
+    {
+      "name": "trustno1-coder/VIctory-NVIDIA",
+      "stars": 2507,
+      "lang": "Rust",
+      "desc": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x144",
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA"
+    },
+    {
+      "name": "nexu-io/opengame",
+      "stars": 2148,
+      "lang": "TypeScript",
+      "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. T",
+      "url": "https://github.com/nexu-io/opengame"
+    },
+    {
+      "name": "alesha-pro/llm.asm",
+      "stars": 2093,
+      "lang": "Assembly",
+      "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT tr",
+      "url": "https://github.com/alesha-pro/llm.asm"
+    },
+    {
+      "name": "os6/nospeaker",
+      "stars": 1989,
+      "lang": "Swift",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 1852,
+      "lang": "Rust",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-27",
+    "rates": {
+      "CNY": 6.6544,
+      "EUR": 0.91266,
+      "GBP": 0.76211,
+      "JPY": 159.54
+    }
+  },
+  "crypto": {
+    "btc": 59797,
+    "btc_24h": -1.5696148854192447,
+    "eth": 1665.77,
+    "eth_24h": -2.198409046661143
+  }
+}

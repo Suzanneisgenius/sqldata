@@ -1,0 +1,163 @@
+{
+  "utc": "2026-11-28T07:55:58+00:00",
+  "local": "2026-11-28T15:55:58+08:00",
+  "hn": [
+    {
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "score": 194,
+      "comments": 32,
+      "url": "https://unkernel.dev",
+      "hn": "https://news.ycombinator.com/item?id=50674218"
+    },
+    {
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "score": 51,
+      "comments": 3,
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "hn": "https://news.ycombinator.com/item?id=50632052"
+    },
+    {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "score": 327,
+      "comments": 134,
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "hn": "https://news.ycombinator.com/item?id=50672565"
+    },
+    {
+      "title": "The Balatro Timeline",
+      "score": 285,
+      "comments": 63,
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "hn": "https://news.ycombinator.com/item?id=50657346"
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "score": 421,
+      "comments": 260,
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "hn": "https://news.ycombinator.com/item?id=50643158"
+    },
+    {
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "score": 36,
+      "comments": 5,
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "hn": "https://news.ycombinator.com/item?id=50666724"
+    },
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "score": 504,
+      "comments": 260,
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "hn": "https://news.ycombinator.com/item?id=50668145"
+    },
+    {
+      "title": "Sydney Fire Ant Infestation",
+      "score": 42,
+      "comments": 18,
+      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+      "hn": "https://news.ycombinator.com/item?id=50650253"
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "score": 289,
+      "comments": 92,
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "hn": "https://news.ycombinator.com/item?id=50669765"
+    },
+    {
+      "title": "Citroën Hydraulic System",
+      "score": 180,
+      "comments": 57,
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "hn": "https://news.ycombinator.com/item?id=50662313"
+    }
+  ],
+  "github": [
+    {
+      "name": "Marvisak/VIctory",
+      "stars": 13895,
+      "lang": "Rust",
+      "desc": "An attempt at running GTA VI on PC",
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "trustno1-coder/VIctory-NVIDIA",
+      "stars": 4420,
+      "lang": "Rust",
+      "desc": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x144",
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA"
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "stars": 3366,
+      "lang": "Rust",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Wind",
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "name": "ProjectLeonida/mandy",
+      "stars": 3021,
+      "lang": "Python",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "url": "https://github.com/ProjectLeonida/mandy"
+    },
+    {
+      "name": "nexu-io/opengame",
+      "stars": 2499,
+      "lang": "TypeScript",
+      "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. T",
+      "url": "https://github.com/nexu-io/opengame"
+    },
+    {
+      "name": "alesha-pro/llm.asm",
+      "stars": 2383,
+      "lang": "Assembly",
+      "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT tr",
+      "url": "https://github.com/alesha-pro/llm.asm"
+    },
+    {
+      "name": "os6/nospeaker",
+      "stars": 1998,
+      "lang": "Swift",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "name": "Reukix/Reloc",
+      "stars": 1921,
+      "lang": "Swift",
+      "desc": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "url": "https://github.com/Reukix/Reloc"
+    },
+    {
+      "name": "crhywun/g1-acq",
+      "stars": 1822,
+      "lang": "JavaScript",
+      "desc": "",
+      "url": "https://github.com/crhywun/g1-acq"
+    },
+    {
+      "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "stars": 1692,
+      "lang": "Rust",
+      "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube D",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop"
+    }
+  ],
+  "fx": {
+    "date": "2026-11-27",
+    "rates": {
+      "CNY": 6.6544,
+      "EUR": 0.91266,
+      "GBP": 0.76211,
+      "JPY": 159.54
+    }
+  },
+  "crypto": {
+    "btc": 59769,
+    "btc_24h": -3.1341551745326686,
+    "eth": 1657.32,
+    "eth_24h": -4.429569678298882
+  }
+}
